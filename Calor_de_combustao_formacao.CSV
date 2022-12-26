@@ -1,30 +1,30 @@
-;Formula;C;H;O;N;S;SMILE;Nome;E.F.;Calor_de_Combustão;Formação
+;Formula;C;H;O;N;S;SMILE;Nome;E.F.;Calor_de_CombustÃ£o;FormaÃ§Ã£o
 0;C8H8N4;8;8;0;4;0;CN1C(=NN=N1)C2=CC=CC=C2;1-methyl-5-phenyltetrazole;c;-1095.6;69.9
-1;C8H8O ;8;8;1;0;0;CC(=O)C1=CC=CC=C1;acetophe:fione ;liq;-991.6;-34.07
+1;C8H8OÂ ;8;8;1;0;0;CC(=O)C1=CC=CC=C1;acetophe:fione ;liq;-991.6;-34.07
 2;C5H14O;5;14;1;0;0;CCCCCCO;I-hexaIiol;liq;-951.86;-90.65
 3; C6H10O2;6;10;2;0;0;CCC=CCC(=O)O;hydrosorbic acid;liq;-795.7;-110.2
-4;C4H8O7;4;8;7;0;0;C(C(C(=O)O)O)(C(=O)O)O.O;DL-tartaric acid monohydrate;c;-27;-371
+4;C4H8O7;4;8;7;0;0;C(C(C(=O)O)O)(C(=O)O)O.O;DL-tartaric acidÂ monohydrate;c;-27;-371
 5;C3H4N2;3;4;0;2;0;C1=CN=CN1;imidazole ;c;-33.3;14.5
 6;C5H8O7;5;8;7;0;0;C(C(C(=O)O)O)(C(C(=O)O)O)O;DL-trihydroxyglutaric acid;c;-38;-356
-7;C2H6O6 ;2;6;6;0;0;C(=O)(C(=O)O)O.O.O  ;oxalic acid dihydrate  ;c;-52;-341
-8;C2H2O4 ;2;2;4;0;0;C(=O)(C(=O)O)O;oxalic acid ;c;-58.7;-197.7
+7;C2H6O6 ;2;6;6;0;0;C(=O)(C(=O)O)O.O.OÂ Â ;oxalic acid dihydrateÂ  ;c;-52;-341
+8;C2H2O4Â ;2;2;4;0;0;C(=O)(C(=O)O)O;oxalic acid ;c;-58.7;-197.7
 9;CH2O2;1;2;2;0;0;C(=O)O;formic acid (methanoic acid);liq;-60.86;-101.51
 10;C2H4O4;2;4;4;0;0;C(=O)C(=O)O.O;glyoxylic acid;c;-125;-199.7
 11;C3H4O6;3;4;6;0;0;C(=O)(C(=O)O)C(=O)O.O;mesoxalic acid;c;-128.1;-290.7
-12;CH5N3O4 ;1;5;4;3;0;C(=O)(N)N.[N+](=O)(O)[O-];urea nitrate;c;-130;-134.8
+12;CH5N3O4Â ;1;5;4;3;0;C(=O)(N)N.[N+](=O)(O)[O-];urea nitrate;c;-130;-134.8
 13;C2H3NO3 ;2;3;3;1;0;C(=O)(C(=O)O)N;oxamic acid;c;-130.2;-160.4
 14;C12H24O12 ;12;24;12;0;0;C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O.O;B-maltose monohydrate;c;-134;-606
 15;CH3NO ;1;3;1;1;0;C(=O)N;formamide ;liq;-135.8;-60.7
-16;CH2O ;1;2;1;0;0;C=O;formaldehyde (methanal);g;-136.42;-25.95
-17;CH4N2O ;1;4;1;4;0;C(=O)(N)N;urea;c;-150.97;-79.71
+16;CH2OÂ ;1;2;1;0;0;C=O;formaldehyde (methanal);g;-136.42;-25.95
+17;CH4N2OÂ ;1;4;1;4;0;C(=O)(N)N;urea;c;-150.97;-79.71
 18;CH2N4O;1;2;1;1;0;C1(=O)NN=NN1;5-hydroxytetrazole ;c;-163.9;1.5
-19;C2H4O3 ;2;4;3;0;0;C(C(=O)O)O;glycolic acid (hydroxyacetic acid)  ;c;-166.1;-158.6
-20;CH4O ;1;4;1;0;0;CO;methanol;liq;-173.64;-57.04
-21;CH4O ;1;4;1;0;0;CO;methanol;g;-182.72;-47.96
+19;C2H4O3Â ;2;4;3;0;0;C(C(=O)O)O;glycolic acid (hydroxyacetic acid)Â Â ;c;-166.1;-158.6
+20;CH4OÂ ;1;4;1;0;0;CO;methanol;liq;-173.64;-57.04
+21;CH4OÂ ;1;4;1;0;0;CO;methanol;g;-182.72;-47.96
 22;C4H4N2O4;4;4;4;2;0;C1(C(=O)NC(=O)NC1=O)O;dialuric acid ;c;-198.4;-314.4
 23;C2H4N2O2 ;2;4;2;2;0;C(=O)(C(=O)N)N;oxamide;c;-201.7;-123
-24;C2H2O2 ;2;2;2;0;0;C(=O)C=O;glyoxal ;g;-205.76;-50.66
-25;C3H4O4 ;3;4;4;0;0;C(C(=O)O)C(=O)O;malonic acid;c;-205.82;-212.96
+24;C2H2O2Â ;2;2;2;0;0;C(=O)C=O;glyoxal ;g;-205.76;-50.66
+25;C3H4O4Â ;3;4;4;0;0;C(C(=O)O)C(=O)O;malonic acid;c;-205.82;-212.96
 26;CH6N4O3 ;1;6;3;4;0;C(=N)(N)N.[N+](=O)(O)[O-];guanidine nitrate;c;-206.5;-92.5
 27;C2H4N2O2 ;2;4;2;2;0;C(=O)NC(=O)N;formylurea;c;-207;-118
 28;C2H4O2;2;4;2;0;0;CC(=O)O;acetic acid (ethanoic acid);liq;-209.02;-115.71
@@ -36,56 +36,56 @@
 34;CH4N6O3;1;6;3;6;0;C1(=NNN=N1)N.[N+](=O)(O)[O-];5-aminotetrazole nitrate ;c;-224.1;-6.6
 35;C2H5NO2;2;5;2;1;0;C(C(=O)O)N; glycine ;c;-232.67;-126.22
 36;C2H4O2;2;4;2;0;0;COC=O;methyl formate;liq;-234.1;-90.6
-37;C7H11O8 ;7;11;8;0;0; ;a-methyl-D-glucopyranoside;c;-241;-291.2
+37;C7H11O8Â ;7;11;8;0;0;Â ;a-methyl-D-glucopyranoside;c;-241;-291.2
 38;C2H4O2;2;4;2;0;0;COC=O;methyl formate;c;-241;-83.7
 39;CH3N5;1;3;0;5;0;C1(=NNN=N1)N;5-aminotetrazole ;c;-246.2;49.7
 40;CH5N3;1;5;0;3;0;C(=N)(N)N;guanidine;c;-251.45;-13.39
-41;CH5N ;1;5;0;1;0;CN;methylamine;liq;-253.5;-11.3
+41;CH5NÂ ;1;5;0;1;0;CN;methylamine;liq;-253.5;-11.3
 42;C2H4N2O2 ;2;4;2;2;0;O=C(N=NC(=O)N)N;azodicarbamide;c;-254.83;-69.9
 43;CH5N5O2 ;1;5;2;5;0;C(=N[N+](=O)[O-])(N)NN;nitro amino guanidine;c;-270.13;5.29
-44;C4H6O6  ;4;6;6;0;0;C(C(C(=O)O)O)(C(=O)O)O;DL-tartaric acid;c;-272;-308.5
+44;C4H6O6Â Â ;4;6;6;0;0;C(C(C(=O)O)O)(C(=O)O)O;DL-tartaric acid;c;-272;-308.5
 45;C4H4N2O5;4;4;5;2;0;C1(=O)C(=O)NC(=O)NC1=O.O;alloxan monohydrate ;c;-273.76;-239.08
 46;C2H6N4O2 ;2;6;2;4;0;C(=O)(N)NNC(=O)N;hydrazodicarbamide ;c;-273.86;-119.19
-47;C4H6O6  ;4;6;6;0;0;C(C(C(=O)O)O)(C(=O)O)O;L-tartaric acid;c;-274;-306.5
+47;C4H6O6Â Â ;4;6;6;0;0;C(C(C(=O)O)O)(C(=O)O)O;L-tartaric acid;c;-274;-306.5
 48;C4H8O7;4;8;7;0;0;C(C(C(=O)O)O)(C(=O)O)O;meso-tartaric acid;c;-275.3;-305.9
 49;C3H4O3 ;3;4;3;0;0;CC(=O)C(=O)O;pyruvic acid;c;-278.5;-140.3
-50;C2H4O ;2;4;1;0;0;CC=O;acetaldehyde (ethanal);liq;-278.77;-45.96
+50;C2H4OÂ ;2;4;1;0;0;CC=O;acetaldehyde (ethanal);liq;-278.77;-45.96
 51;C3H4O3 ;3;4;3;0;0;C1COC(=O)O1;ethylene carbonate;c;-279.9;-138.9
 52;C2H5NO ;2;5;1;1;0;CC(=O)N;acetamide;c;-282.9;-76
-53;C2H602 ;2;6;0;0;0;C(CO)O;l,2-ethanediol (ethylene  glycol)  ;liq;-284.35;-108.7
-54;C2H4O ;2;4;1;0;0;CC=O;acetaldehyde (ethanal);g;-285.01;-39.72
-55;C3H6N2O3;3;6;3;2;0;C(C(=O)O)NC(=O)N;hydantoic acid (ureido acetic acid)  ;c;-308;-179
+53;C2H602Â ;2;6;0;0;0;C(CO)O;l,2-ethanediol (ethyleneÂ  glycol)Â Â ;liq;-284.35;-108.7
+54;C2H4OÂ ;2;4;1;0;0;CC=O;acetaldehyde (ethanal);g;-285.01;-39.72
+55;C3H6N2O3;3;6;3;2;0;C(C(=O)O)NC(=O)N;hydantoic acid (ureidoÂ acetic acid)  ;c;-308;-179
 56;C2H2;2;2;0;0;0;C#C;acetylene;g;-310.61;54.19
 57;C3H4N2O2;3;4;2;2;0;C1C(=O)NC(=O)N1;hydantoin ;c;-311.6;-107.2
-58;C4H6O5 ;4;6;5;0;0;C(C(C(=O)O)O)C(=O)O;DL-malic acid;c;-316.88;-264.67
-59;C4H6O5 ;4;6;5;0;0;C(C(C(=O)O)O)C(=O)O;L-malic acid ;c;-317.37;-263.78
-60;C2H5N5O3;2;5;3;5;0; ;3-amino-l,2,4-triazole nitrate ;c;-318;-40.9
-61;C2HN5;2;1;0;5;0; ;3-azido-s-triazole ;c;-318.3;96.1
-62;C4H4O4 ;4;4;4;0;0;C(=CC(=O)O)C(=O)O;fumaric acid;c;-318.99;-193.84
+58;C4H6O5Â ;4;6;5;0;0;C(C(C(=O)O)O)C(=O)O;DL-malic acid;c;-316.88;-264.67
+59;C4H6O5Â ;4;6;5;0;0;C(C(C(=O)O)O)C(=O)O;L-malic acid ;c;-317.37;-263.78
+60;C2H5N5O3;2;5;3;5;0;Â ;3-amino-l,2,4-triazole nitrate ;c;-318;-40.9
+61;C2HN5;2;1;0;5;0;Â ;3-azido-s-triazole ;c;-318.3;96.1
+62;C4H4O4Â ;4;4;4;0;0;C(=CC(=O)O)C(=O)O;fumaric acid;c;-318.99;-193.84
 63;C3H6O3 ;3;6;3;0;0;CC(C(=O)O)O;D-Iactic acid ;c;-321.22;-165.88
-64;C2H5N5O3;2;5;3;5;0;CN(C(=N)N[N+](=O)[O-])N=O;I-formamido-2-nitro guanidine ;c;-323;-35.1
-65;C4H4O4 ;4;4;4;0;0;C(=CC(=O)O)C(=O)O;maleic acid ;c;-323.89;-188.94
+64;C2H5N5O3;2;5;3;5;0;CN(C(=N)N[N+](=O)[O-])N=O;I-formamido-2-nitroÂ guanidine ;c;-323;-35.1
+65;C4H4O4Â ;4;4;4;0;0;C(=CC(=O)O)C(=O)O;maleic acid ;c;-323.89;-188.94
 66;C2H7N5O4;2;7;4;5;0;C(=N)(N)N(C(=O)N)O[N+](=O)[O-];guanylurea nitrate ;c;-325.1;-102.1
 67;C2H6O;2;6;1;0;0;CCO;ethanol;liq;-326.68;-66.37
 68;C3H6O3 ;3;6;3;0;0;CC(C(=O)O)O;DL-Iactic acid ;liq;-326.8;-160.3
-69;C3H4O2 ;3;4;2;0;0;C=CC(=O)O;acrylic acid  ;liq;-327;-91.8
-70;CH8N6O3 ;1;8;3;6;0; ;sym-diaminoguanidine nitrate;c;-329.74;-37.57
-71;C4H2O3 ;4;2;3;0;0;C1=CC(=O)OC1=O;maleic anhydride;c;-332.1;-112.42
+69;C3H4O2 ;3;4;2;0;0;C=CC(=O)O;acrylic acidÂ Â ;liq;-327;-91.8
+70;CH8N6O3 ;1;8;3;6;0;Â ;sym-diaminoguanidine nitrate;c;-329.74;-37.57
+71;C4H2O3Â ;4;2;3;0;0;C1=CC(=O)OC1=O;maleic anhydride;c;-332.1;-112.42
 72;C2H6O;2;6;1;0;0;CCO;ethanol;g;-336.86;-56.19
 73;C2H4;2;4;0;0;0;C=C;ethylene;g;-337.23;12.5
 74;C3H4O2 ;3;4;2;0;0;C1COC1=O;B-propiolactone ;liq;-339.93;-78.85
 75;C2H4N4O;2;4;1;4;0;COC1=NNN=N1;5-methoxytetrazole ;c;-341.3;16.6
 76;C2H4N4;2;4;0;4;0;N=1N=C(N)NC1;3-amino-l,2 ,4-triazole ;c;-343.1;18.4
 77;C3H7NO3 ;3;7;3;1;0;C(C(C(=O)O)O)N;L-isoserine;c;-343.5;-177.8
-78;C3H603 ;3;6;0;0;0;C(C(C=O)O)O;glyceraldehyde;liq;-344;-143
+78;C3H603Â ;3;6;0;0;0;C(C(C=O)O)O;glyceraldehyde;liq;-344;-143
 79;C3H7NO3 ;3;7;3;1;0;C(C(C(=O)O)N)O;L-serine ;c;-347.7;-173.6
-80;C2H8O ;2;8;1;0;0;COC  ;dimethyl ether ;g;-349.06;-43.99
+80;C2H8OÂ ;2;8;1;0;0;COCÂ Â ;dimethyl ether ;g;-349.06;-43.99
 81;C3H4O2 ;3;4;2;0;0;C1COC1=O;B-propiolactone;g;-351.17;-67.61
-82;CH4N2S ;1;4;0;2;1;C(=S)(N)N;thiourea ;c;-353.43;-21.13
+82;CH4N2SÂ ;1;4;0;2;1;C(=S)(N)N;thiourea ;c;-353.43;-21.13
 83;C4H6O4 ;4;6;4;0;0;C(CC(=O)O)C(=O)O;succinic acid;c;-356.36;-224.79
 84;C3H6N2O2 ;3;6;2;2;0;C(C(=O)N)C(=O)N;malonamide;c;-356.6;-130.5
 85;C4H4N2O3;4;4;3;2;0;C1C(=O)NC(=O)NC1=O;barbituric acid ;c;-360.6;-152.2
-86;C2H2N6;2;2;0;6;0; ;3-azido-s-triazole ;c;-361.9;105.5
+86;C2H2N6;2;2;0;6;0;Â ;3-azido-s-triazole ;c;-361.9;105.5
 87;CH4S ;1;4;0;0;1;CS;methanethiol ;liq;-363.48;-11.08
 88;C3H6O2;3;6;2;0;0;CCC(=O)O;propionic acid (propanoic acid);liq;-365.03;-122.07
 89;C4H3O3;4;3;3;0;0;C1CC(=O)OC1=O;succinic anhydride;c;-369;-143.8
@@ -96,38 +96,38 @@
 94;C3H6O2;3;6;2;0;0;CC(=O)OC;methyl acetate;liq;-380.7;-106.4
 95;C2H5N;2;5;0;1;0;C1CN1;ethylenimine ;c;-380.86;21.97
 96;C2H8N2O3 ;2;8;3;2;0;CNC.[N+](=O)(O)[O-];dimethylamine nitrate;c;-381.8;-79.6
-97;C4H7NO4 ;4;7;4;1;0;C(C(C(=O)O)N)C(=O)O;L-aspartic acid ;c;-382.84;-232.47
-98;C2H7NO3S ;2;7;3;1;1;C(CS(=O)(=O)O)N;2-aminoethane-l-sulfonic  acid (taurine)  ;c;-383.4;-187.71
+97;C4H7NO4Â ;4;7;4;1;0;C(C(C(=O)O)N)C(=O)O;L-aspartic acid ;c;-382.84;-232.47
+98;C2H7NO3SÂ ;2;7;3;1;1;C(CS(=O)(=O)O)N;2-aminoethane-l-sulfonicÂ  acid (taurine)Â Â ;c;-383.4;-187.71
 99;C3H7NO2 ;3;7;2;1;0;CC(C(=O)O)N; DL-alanine;c;-386.71;-134.55
 100;C3H7NO2 ;3;7;2;1;0;CC(C(=O)O)N; L-alanine;c;-387.3;-133.96
-101;C3H802 ;3;8;0;0;0;C(C(CO)O)O;1,2 ,3-propanetriol  (glycerol);liq;-395.65;-159.76
-102;C4H7NO4 ;4;7;4;1;0;C(C(=O)N)OCC(=O)O;diglycolamidic acid ;c;-395.8;-219.5
-103;C3H7NO2 ;3;7;2;1;0;CCOC(=O)N;ethylcarbamate (urethane)  ;c;-396.9;-124.4
+101;C3H802Â ;3;8;0;0;0;C(C(CO)O)O;1,2 ,3-propanetriol  (glycerol);liq;-395.65;-159.76
+102;C4H7NO4Â ;4;7;4;1;0;C(C(=O)N)OCC(=O)O;diglycolamidic acid ;c;-395.8;-219.5
+103;C3H7NO2 ;3;7;2;1;0;CCOC(=O)N;ethylcarbamate (urethane)Â Â ;c;-396.9;-124.4
 104;C2H5N7;2;5;0;7;0;C1(=NNN=N1)N=C(N)N;5-guanylaminotetrazole ;c;-399.4;40.5
 105;C3H7NO2 ;3;7;2;1;0;CNCC(=O)O;sarcosine ;c;-400.1;-121.2
-106;C4H6O4 ;4;6;4;0;0;COC(=O)C(=O)OC;dimethyl oxalate ;liq;-400.2;-181
-107;C4H5NO3 ;4;5;3;1;0;CN1CC(=O)OC1=O;sarcosine-N-carboxylic acid  anhydride ;c;-402;-144.1
+106;C4H6O4Â ;4;6;4;0;0;COC(=O)C(=O)OC;dimethyl oxalate ;liq;-400.2;-181
+107;C4H5NO3 ;4;5;3;1;0;CN1CC(=O)OC1=O;sarcosine-N-carboxylic acidÂ  anhydride ;c;-402;-144.1
 108;C2H5N5;2;5;0;5;0;C1(=NNN=N1)N;5-aminotetrazole ;c;-405.14;46.25
 109;C2H5N5;2;5;0;5;0;CNC1=NNN=N1;5-methylaminotetrazole ;c;-407.2;48.4
-110;C2H5N5;2;5;0;5;0; ;2-meth'yI-5~aminotetrazole;c;-409.3;50.4
+110;C2H5N5;2;5;0;5;0;Â ;2-meth'yI-5~aminotetrazole;c;-409.3;50.4
 111; C2H7N ;2;7;0;1;0;CCN;ethylamine;liq;-409.5;-17.7
 112;C4H6N4O3;4;6;3;4;0;C1(C(=O)NC(=O)N1)NC(=O)N;allantoin ;c;-409.64;-171.51
-113;C2H4OS ;2;4;1;0;1;CC(=O)S;thiolacetic acid ;liq;-416.22;-52.39
-114;C2H7N ;2;7;0;1;0;CNC;dimethylamine;liq;-416.7;-10.5
-115;C4H8N2O4 ;4;8;4;2;0; ;meso-tartramide;c;-426;-223.5
+113;C2H4OSÂ ;2;4;1;0;1;CC(=O)S;thiolacetic acid ;liq;-416.22;-52.39
+114;C2H7NÂ ;2;7;0;1;0;CNC;dimethylamine;liq;-416.7;-10.5
+115;C4H8N2O4 ;4;8;4;2;0;Â ;meso-tartramide;c;-426;-223.5
 116;C4H8N2O4 ;4;8;4;2;0;C(C(C(=O)N)O)(C(=O)N)O;L-tartramide;c;-426.6;-222.9
-117;C2H3N7;2;3;0;7;0; ;4-amino-3-azido-s-triazole ;c;-427.1;136.5
+117;C2H3N7;2;3;0;7;0;Â ;4-amino-3-azido-s-triazole ;c;-427.1;136.5
 118;C3H60;3;6;0;0;0;CC(=O)C;propanone (acetone);liq;-427.92;-59.18
-119;C5H6O5 ;5;6;5;0;0;C(CC(=O)O)C(=O)C(=O)O;a-ketoglutaric acid;c;-429.85;-245.35
-120;C3H802 ;3;8;0;0;0;OCCCO;I,3·propanediol;liq;-431;-124.4
+119;C5H6O5Â ;5;6;5;0;0;C(CC(=O)O)C(=O)C(=O)O;a-ketoglutaric acid;c;-429.85;-245.35
+120;C3H802Â ;3;8;0;0;0;OCCCO;I,3Â·propanediol;liq;-431;-124.4
 121;C4H6O3;4;6;3;0;0;CC(=O)OC(=O)C;acetic anhydride ;liq;-431.7;-149.45
-122;C36H44N2O10;36;44;10;2;0; ;L()-leucine methyl ester salt of ()-1,1'- dinaphthyl-2,2' -dihydroxy  c~rboxylic acid-(3,3');c;-434;-540
-123;C3H6O ;3;6;1;0;0;CCC=O;n-propionaldehyde (1-propanal);liq;-434.1;-53
-124;C36H44N2O10;36;44;10;2;0; ;L()-leucine methyl ester salt of (-)-l,l'-dinaphthyl 2,2' -dihydroxy carboxylic  acid-(3,3') ;c;-435;-531
+122;C36H44N2O10;36;44;10;2;0;Â ;L()-leucine methylÂ ester salt of ()-1,1'- dinaphthyl-2,2' -dihydroxy  c~rboxylic acid-(3,3');c;-434;-540
+123;C3H6OÂ ;3;6;1;0;0;CCC=O;n-propionaldehyde (1-propanal);liq;-434.1;-53
+124;C36H44N2O10;36;44;10;2;0;Â ;L()-leucine methyl ester salt of (-)-l,l'-dinaphthyl 2,2' -dihydroxy carboxylicÂ  acid-(3,3') ;c;-435;-531
 125;C3H60;3;6;0;0;0;CC(=O)C;propanone (acetone);g;-435.32;-51.78
-126;C3H802 ;3;8;0;0;0;CC(CO)O;1 ,2~propanediol ;liq;-435.8;-119.6
+126;C3H802Â ;3;8;0;0;0;CC(CO)O;1 ,2~propanediol ;liq;-435.8;-119.6
 127;C3H7NO ;3;7;1;1;0;CCC(=O)N;propionamide;c;-439.6;-81.7
-128;C2H8N2 ;2;8;0;2;0;C(CN)N;ethylenediamine;liq;-446.3;-15.06
+128;C2H8N2Â ;2;8;0;2;0;C(CN)N;ethylenediamine;liq;-446.3;-15.06
 129;C3H4N2;3;4;0;2;0;C1=CNN=C1;pyrazole ;c;-447.1;28.3
 130;C3H5N5O;3;5;1;5;0;CC(=O)NC1=NNN=N1;5-acetamidotetrazole ;c;-451.7;-1.2
 131;C5H6N2O4;5;6;4;2;0;C1(=O)C(C(=O)NC(=O)N1)(NC(=O)N)O;pseudouric acid ;c;-453.5;-221.7
@@ -137,63 +137,63 @@
 135;C5H4N4O3;5;4;3;4;0;C12=C(NC(=O)N1)NC(=O)NC2=O;uric acid;c;-459.16;-147.73
 136;C2H4N10;2;4;0;10;0;C1(=NNN=N1)NNC2=NNN=N2;5,5' -hydrazotetrazole ;c;-459.8;135.1
 137;C3H12N6O3 ;3;12;3;6;0;C(=N)(N)N.C(=N)(N)N.C(=O)([O-])[O-];guanidine carbonate ;c;-459.95;-232.1
-138;C4H8N2O3 ;4;8;3;2;0;C(C(C(=O)O)N)C(=O)N;L-asparagine ;c;-460.97;-188.5
+138;C4H8N2O3Â ;4;8;3;2;0;C(C(C(=O)O)N)C(=O)N;L-asparagine ;c;-460.97;-188.5
 139;C3H7NO ;3;7;1;1;0;CN(C)C=O;N,N-dimethylformamide ;liq;-464.1;-57.2
 140;C4H6N2O2 ;4;6;2;2;0;CC1C(=O)NC(=O)N1;5-methyl hydantoin ;c;-464.8;-116.3
-141;C6H10O8  ;6;10;8;0;0;C(C(=O)O)C(CC(=O)O)(C(=O)O)O.O;citric acid monohydrate;c;-466.48;-439.4
-142;C3H7N5O3;3;7;3;5;0; ;3-amino-5-methyl-l,2 ,4-triazole nitrate ;c;-466.7;-54.6
-143;C3H6O ;3;6;1;0;0;C1COC1;oxacyclobutane (trimeth ylene oxide).  ;g;-467.85;-19.25
+141;C6H10O8Â Â ;6;10;8;0;0;C(C(=O)O)C(CC(=O)O)(C(=O)O)O.O;citric acid monohydrate;c;-466.48;-439.4
+142;C3H7N5O3;3;7;3;5;0;Â ;3-amino-5-methyl-l,2 ,4-triazole nitrate ;c;-466.7;-54.6
+143;C3H6OÂ ;3;6;1;0;0;C1COC1;oxacyclobutane (trimeth ylene oxide).Â Â ;g;-467.85;-19.25
 144;C6H8O7;6;8;7;0;0;C(C(=O)O)C(CC(=O)O)(C(=O)O)O;citric acid (anhydrous);c;-468.6;-369
 145;C3H6N6;3;6;0;6;0;C1(=NC(=NC(=N1)N)N)N;melamine ;c;-469.3;-17.3
-146;C5H8N2O5;5;8;5;2;0; ;glycylglycine-N-carboxylic acid ;c;-470.5;-273
+146;C5H8N2O5;5;8;5;2;0;Â ;glycylglycine-N-carboxylic acid ;c;-470.5;-273
 147;C4H8N2O3;4;8;3;2;0;C(C(=O)NCC(=O)O)N;glycylglycine;c;-470.95;-178.51
-148;C3H9N5O4;3;9;4;5;0; ;acetamidoguanidine nitrate ;c;-471.5;-118.1
+148;C3H9N5O4;3;9;4;5;0;Â ;acetamidoguanidine nitrate ;c;-471.5;-118.1
 149;C4H8O3 ;4;8;3;0;0;CC(C)(C(=O)O)O;hydroxyisobutyric acid;c;-471.6;177.9
-150;C5H6O4 ;5;6;4;0;0;C=C(CC(=O)O)C(=O)O;itaconic acid;c;-474.14;-201.06
+150;C5H6O4Â ;5;6;4;0;0;C=C(CC(=O)O)C(=O)O;itaconic acid;c;-474.14;-201.06
 151;C6H6O6 ;6;6;6;0;0;C(C(=CC(=O)O)C(=O)O)C(=O)O;trans-aconitic acid;c;-474.6;-294.7
-152;C3H7N5O3;3;7;3;5;0;CC(=O)NN=C(N)N[N+](=O)[O-];l-acetamido-2-nitro guanidine ;c;-475;-46.3
+152;C3H7N5O3;3;7;3;5;0;CC(=O)NN=C(N)N[N+](=O)[O-];l-acetamido-2-nitroÂ guanidine ;c;-475;-46.3
 153;C4H6N2O2 ;4;6;2;2;0;C(C(=O)O)N;glycine anhydride ;c;-475.1;-106
 154;C6H6O6 ;6;6;6;0;0;C(C(=CC(=O)O)C(=O)O)C(=O)O;cis-aconitic acid;c;-476.6;-292.7
 155;C5H6O4 ;5;6;4;0;0;CC(=CC(=O)O)C(=O)O;mesaconic acid;c;-478;-197
-156;C5H6O4 ;5;6;4;0;0;CC(=CC(=O)O)C(=O)O;citraconic acid;c;-478.16;-197.04
+156;C5H6O4Â ;5;6;4;0;0;CC(=CC(=O)O)C(=O)O;citraconic acid;c;-478.16;-197.04
 157;C4H6O2;4;6;2;0;0;CC=CC(=O)O;trans-crotonic acid;c;-478.2;-102.9
 158;C3H8O;3;8;1;0;0;CC(C)O;2-propanol;liq;-479.44;-75.97
-159;C3H6N4O;3;6;1;4;0; ;1 ,4-dimethyl-5-tetrazolone ;c;-480.5;-6.6
+159;C3H6N4O;3;6;1;4;0;Â ;1 ,4-dimethyl-5-tetrazolone ;c;-480.5;-6.6
 160;C2H4S ;2;4;0;0;1;C1CS1;thiacyclopropane ;liq;-481.02;12.41
 161;C3H8O;3;8;1;0;0;CC(C)O;I-propanol;liq;-482.75;-72.66
-162;C6H10O8  ;6;10;8;0;0;C(C(C(C(=O)O)O)O)(C(C(=O)O)O)O;mucic acid;c;-483;-423
-163;C4H8O3 ;4;8;3;0;0; ;DL-B-hydroxybutyric acid ;liq;-487.2;-162.3
-164;C5H4O3 ;5;4;3;0;0; ;2-furoic acid (pyromucic  acid)  ;c;-487.8;-119
-165;C4H6O2 ;4;6;2;0;0;O=C(C(=O)C)C;2,3-hutanedione (diacetyl)  ;liq;-493.71;-87.44
+162;C6H10O8Â Â ;6;10;8;0;0;C(C(C(C(=O)O)O)O)(C(C(=O)O)O)O;mucic acid;c;-483;-423
+163;C4H8O3 ;4;8;3;0;0;Â ;DL-B-hydroxybutyric acidÂ ;liq;-487.2;-162.3
+164;C5H4O3Â ;5;4;3;0;0;Â ;2-furoic acid (pyromucicÂ  acid)Â Â ;c;-487.8;-119
+165;C4H6O2Â ;4;6;2;0;0;O=C(C(=O)C)C;2,3-hutanedione (diacetyl)Â Â ;liq;-493.71;-87.44
 166;C6H8O7;6;8;7;0;0;C1(C(C(=O)OC1C(C(=O)O)O)O)O;D-glucaric acid-3,6-lactone;c;-494;-343.6
-167;C6H10O8  ;6;10;8;0;0;O=C(O)C(O)C(O)C(O)C(O)C(=O)O;allomucic acid;c ;-494;-412
+167;C6H10O8Â Â ;6;10;8;0;0;O=C(O)C(O)C(O)C(O)C(O)C(=O)O;allomucic acid;c ;-494;-412
 168;C6H8O7;6;8;7;0;0;C1(C(C(=O)OC1C(C(=O)O)O)O)O;D-glucaric acid-l,4-lactone;c;-494.4;-343.2
 169;C4H4O ;4;4;1;0;0;C1=COC=C1;furan;liq;-497.99;-14.84
 170;C4H6O2;4;6;2;0;0;CC=CC(=O)O;cis-crotonic acid;liq;-498;-83
 171;C4H7NO2 ;4;7;2;1;0;CC(=O)NC(=O)C;diacetamide;c;-498;-117
-172;C3H6N2O2S ;3;6;2;2;1; ;thiohydantoic acid ;c;-498.4;-132.6
+172;C3H6N2O2S ;3;6;2;2;1;Â ;thiohydantoic acid ;c;-498.4;-132.6
 173;C3H6;3;6;0;0;0;C1CC1;cyclopropane;g;-499.85;12.75
-174;C4H10O4;4;4;4;0;0; ;meso-l,2,3,4·butanetetrol  (meso-erythritol);c;-500.22;-217.56
+174;C4H10O4;4;4;4;0;0;Â ;meso-l,2,3,4Â·butanetetrolÂ  (meso-erythritol);c;-500.22;-217.56
 175;C4H9N03 ;4;9;0;1;0;CC(C(C(=O)O)N)O;DL- and L-threonine ;c;-502.2;-181.4
 176;C3H4N2OS ;3;4;1;4;1;C1C(=O)NC(=S)N1;thiohydantoin ;c;-503.2;-59.5
-177;C3H8O ;3;8;1;0;0;CCOC;methyl ethyl ether ;g;-503.69;-51.72
+177;C3H8OÂ ;3;8;1;0;0;CCOC;methyl ethyl ether ;g;-503.69;-51.72
 178;C4H4O ;4;4;1;0;0;C1=COC=C1;furan;g;-504.6;-8.23
 179;C5H8O5;5;8;5;0;0;C(C1C(C(C(=O)O1)O)O)O;D-arabuuic acid-y-lactone;c;-505.3;-238.2
 180;C2H8N10O;2;8;1;10;0;C1(=NNN=N1)N=NN(C(=N)N)N.O;1-(5-tetrazolyl)-4-guanyltetra-zene monohydrate ;c;-506.5;45.2
 181;C4H8N2O2;4;8;2;2;0;C(CC(=O)N)C(=O)N;succinamide;c;-510.6;-138.9
 182;C3H4N6;3;4;0;6;0;CN1C(=CN=N1)N=[N+]=[N-];3-azido-5-methyl-s-triazole ;c;-512.6;93.8
-183;C5H8O4;5;8;4;0;0;C(CC(=O)O)CC(=O)O;glutaric acid ;c;-514.08;-229.44
+183;C5H8O4;5;8;4;0;0;C(CC(=O)O)CC(=O)O;glutaric acidÂ ;c;-514.08;-229.44
 184;C6H6O6;6;6;6;0;0;C12C(C(C(=O)O1)O)OC(=O)C2O;D-mannonic-l ,4-3,6-dilactone;c;-514.7;-254.6
 185;C5H4N4O2;5;4;2;4;0;C1=NC2=C(N1)C(=O)NC(=O)N2;xanthine ;c;-516.39;-90.49
-186;C3H6O2S ;3;6;2;0;1;O=C(O)C(S)C;,B-thiolacticacid ;liq;-519;-111.6
+186;C3H6O2SÂ ;3;6;2;0;1;O=C(O)C(S)C;,B-thiolacticacid ;liq;-519;-111.6
 187;C2H6S ;2;6;0;0;1;CCS;ethanethiol ;liq;-519.39;-17.53
 188;C2H6S ;2;6;0;0;1;CSC;2-thiapropane ;liq;-521.37;-15.55
 189;C4H8O2;4;8;2;0;0;O=C(O)CCC;butyric acid (butanoic acid);liq;-521.87;-127.59
 190;C3H8;3;8;0;0;0;CCC;propane;g;-530.57;-24.84
 191;C3H6N4;3;6;0;4;0;CC1=NN=NN1C;1,5-dimethyl tetrazole ;c;-532.2;45.1
-192;C5H9NO4 ;5;9;4;1;0;C(CC(=O)O)C(C(=O)O)N;L-glutamic acid ;c;-536;-241.5
+192;C5H9NO4Â ;5;9;4;1;0;C(CC(=O)O)C(C(=O)O)N;L-glutamic acid ;c;-536;-241.5
 193;C5H6N2O3;5;6;3;2;0;CN1C(=O)C(=O)N(C1=O)C;dimethyl parabanic acid;c;-538.2;-137
-194;C48H80O40 ;4;80;40;0;0; ;B-hexamylose;c;-539;-1853
+194;C48H80O40Â ;4;80;40;0;0;Â ;B-hexamylose;c;-539;-1853
 195;C3H7NO2S ;3;7;2;1;1;C(C(C(=O)O)N)S;L-cysteine ;c;-540;-124.6
 196;C3H7NO2S;3;7;2;1;1;C(C(C(=O)O)N)S;L-cysteine;c;-540.5;-124.6
 197;C4H9NO2 ;4;9;2;1;0;C(CC(=O)O)CN;y-aminobutyric acid ;c;-545.5;-138.1
@@ -201,13 +201,13 @@
 199;C4H7NO;4;7;1;1;0;C1CC(=O)NC1;a-pyrrolidone ;c;-547;-68.3
 200;C4H4N2;4;4;0;2;0;C1=CN=CN=C1;pyrimidine ;liq;-547.87;35.04
 201;C3H10N2O3;3;10;3;2;0;C[NH+](C)C.[N+](=O)([O-])[O-];trimethylamine nitrate;c;-549.6;-74.1
-202;C4H11N3O3 ;4;11;3;3;0;CN(CC(=O)O)C(=N)N.O;creatine hydrate ;c;-552.8;-199.1
-203;C5H8O4 ;5;8;4;0;0;O=C(OC)CC(=O)OC;dimethyl malonate  ;liq;-553.3;-190.2
-204;C3H8N6O3;3;8;3;6;0; ;1,3-dimcthyl-5-imino-tetrazole nitrate ;c;-554.1;-1.3
+202;C4H11N3O3Â ;4;11;3;3;0;CN(CC(=O)O)C(=N)N.O;creatine hydrate ;c;-552.8;-199.1
+203;C5H8O4Â ;5;8;4;0;0;O=C(OC)CC(=O)OC;dimethyl malonate Â ;liq;-553.3;-190.2
+204;C3H8N6O3;3;8;3;6;0;Â ;1,3-dimcthyl-5-imino-tetrazole nitrate ;c;-554.1;-1.3
 205;C4H9N3O2;4;9;2;3;0;CN(CC(=O)O)C(=N)N;creatine ;c;-555.16;-128.16
-206;C4H8O2;4;8;2;0;0; ;glycol acetal;liq;-558.4;-91.1
+206;C4H8O2;4;8;2;0;0;Â ;glycol acetal;liq;-558.4;-91.1
 207;C4H7N3O;4;7;1;3;0;CN1CC(=O)N=C1N;creatinine ;c;-558.54;-56.77
-208;C5H10O5;5;10;5;0;0;O=CC(O)C(O)C(O)CO;B-D- and B-L-arabinose   ;c;-558.99;-252.84
+208;C5H10O5;5;10;5;0;0;O=CC(O)C(O)C(O)CO;B-D- and B-L-arabinose Â Â ;c;-558.99;-252.84
 209;C5H10O5;5;10;5;0;0;C1C(C(C(C(O1)O)O)O)O;a-D-xylose ;c;-559;-252.8
 210;C5H4O2 ;5;4;2;0;0;C1=COC(=C1)C=O;furfural;liq;-559.1;-47.8
 211;C6H9NO6;6;9;6;1;0;C(C(=O)O)N(CC(=O)O)CC(=O)O;nitrilotriacetic acid ;c;-559.2;-312.5
@@ -215,36 +215,36 @@
 213;C4H8O2;4;8;2;0;0;C1COCOC1;1,3-dioxane;liq;-559.48;-89.99
 214;C4H4N2;4;4;0;2;0;C1=CN=CC=N1;pyrazine ;g;-559.69;46.86
 215;C4H4N2;4;4;0;2;0;C1=CN=CN=C1;pyrimidine ;g;-559.82;46.99
-216;C5H10O5;5;10;5;0;0;C(C1C(C(C(O1)O)O)O)O;B-D-ribose  ;c;-560.67;-251.16
+216;C5H10O5;5;10;5;0;0;C(C1C(C(C(O1)O)O)O)O;B-D-riboseÂ Â ;c;-560.67;-251.16
 217;C4H5N;4;5;0;1;0;C1=CNC=C1;pyrrole ;liq;-562.07;15.08
-218;C4H7N5O2;4;7;2;5;0; ;5-tetrazolylurethan ;c;-562.7;-52.6
-219;C3H9N ;3;9;0;1;0;CC(C)N;isopropylamine;liq;-562.74;-26.83
+218;C4H7N5O2;4;7;2;5;0;Â ;5-tetrazolylurethan ;c;-562.7;-52.6
+219;C3H9NÂ ;3;9;0;1;0;CC(C)N;isopropylamine;liq;-562.74;-26.83
 220;C5H6N2O2;5;6;2;2;0;O=C1NC=C(C(=O)N1)C;thymine (5-methyl uracil);c;-563.3;-111.9
-221;C3H7N5;3;7;0;5;0; ;5-dimethylaminotetrazole ;c;-564.9;43.6
+221;C3H7N5;3;7;0;5;0;Â ;5-dimethylaminotetrazole ;c;-564.9;43.6
 222;C4H8O2;4;8;2;0;0;O1CCOCC1;l,4-dioxane ;liq;-564.99;-84.47
-223;C3H9N ;3;9;0;1;0;NCCC;n-Plopylamine;liq;-565.31;-24.26
+223;C3H9NÂ ;3;9;0;1;0;NCCC;n-Plopylamine;liq;-565.31;-24.26
 224;C5H6N2O2;5;6;2;2;0;CC1=CC(=O)NC(=O)N1;4-methyluracil ;c;-566;-109.2
 225;C4H4N2;4;4;0;2;0;C1=CC=NN=C1;pyridazine ;liq;-566.57;53.74
-226;C5H8N4O3;5;8;3;4;0; ;methyl allantoin (pyvurile);liq;-566.6;-177
-227;C3H5N7;3;5;0;7;0; ; 4-amino-3-azido-5-methyl-s-triazole;c;-568.6;115.6
+226;C5H8N4O3;5;8;3;4;0;Â ;methyl allantoin (pyvurile);liq;-566.6;-177
+227;C3H5N7;3;5;0;7;0;Â ; 4-amino-3-azido-5-methyl-s-triazole;c;-568.6;115.6
 228;C4H5N;4;5;0;1;0;C1=CNC=C1;pyrrole ;g;-572.87;25.88
-229;C5H8O3;5;8;3;0;0;O=C(O)CCC(=O)C; levulinie acid (y-ketovaleric acid)  ;c;-576.9;166.6
-230;C3H9N ;3;9;0;1;0;CN(C)C;trimethylamine;liq;-578.6;-11
+229;C5H8O3;5;8;3;0;0;O=C(O)CCC(=O)C; levulinie acid (y-ketovaleric acid)Â Â ;c;-576.9;166.6
+230;C3H9NÂ ;3;9;0;1;0;CN(C)C;trimethylamine;liq;-578.6;-11
 231;C4H4N2;4;4;0;2;0;C1=CC=NN=C1;pyridazinc ;g;-579.35;66.52
 232;C5H4N4O;5;4;1;4;0;O=C1N=CNC=2N=CNC12;hypoxanthine (6-oxypurine);c;-580.65;-26.24
 233;C8H10N4O10;8;10;10;4;0;C1(=O)C(C(=O)NC(=O)N1)(C2(C(=O)NC(=O)NC2=O)O)O.O.O;alloxantin dihydrate ;c;-583.7;-510.3
 234;C4H8O;4;8;1;0;0;O=C(C)CC; butanone (methyl ethyl ketone);liq;-584.17;-65.29
 235;C6H12O7;6;12;7;0;0;C(C(C(C(C(C(=O)O)O)O)O)O)O;D-galactonic acid;c;-589.4;-384.8
 236;C4H8O;4;8;1;0;0;O=C(C)CC; butanone (methyl ethyl ketone);g;-590.2;-59.26
-237;C5H4N4O;5;4;1;4;0; ;8-oxypurine ;c;-591.4;-15.4
-238;C4H8O ;4;8;1;0;0;O=CCCC;n-butyraldehyde (1- butanal);liq;-592.2;-57.3
+237;C5H4N4O;5;4;1;4;0;Â ;8-oxypurine ;c;-591.4;-15.4
+238;C4H8OÂ ;4;8;1;0;0;O=CCCC;n-butyraldehyde (1- butanal);liq;-592.2;-57.3
 239;C5H10O4;5;10;4;0;0;CC(=O)OCC(O)CO;glyceryl-1-acetate ;liq;-594.3;-217.5
 240;C6H12O7;6;12;7;0;0;C(C(C(C(C(C(=O)O)O)O)O)O)O;D-gluconic acid;c;-594.9;-379.3
-241;C4H9NO ;4;9;1;1;0;CCCC(=O)N;n-butyramide;c;-596.1;-87.5
+241;C4H9NOÂ ;4;9;1;1;0;CCCC(=O)N;n-butyramide;c;-596.1;-87.5
 242;C5H5N5O;5;5;1;5;0;C1=NC2=C(N1)C(=O)NC(=N2)N;guanine ;c;-597.33;-43.72
 243;C4H8O ;4;8;1;0;0;C1CCOC1;tetrahydrofuran ;liq;-598.4;-51.1
-244;C5H6O2;5;6;2;0;0; ;levulinic lactone;liq;-599;-76.2
-245;C3H10N2 ;3;10;0;2;0;CC(CN)N;1,2-propanediamine;liq;-600.35;-23.38
+244;C5H6O2;5;6;2;0;0;Â ;levulinic lactone;liq;-599;-76.2
+245;C3H10N2Â ;3;10;0;2;0;CC(CN)N;1,2-propanediamine;liq;-600.35;-23.38
 246;C4H8O ;4;8;1;0;0;C1CCOC1;tetrahydrofuran;g;-605.44;-44.03
 247;C6H10O6;6;10;6;0;0;O=C1OC(CO)C(O)C(O)C1O;D-gluconic acid-S-lactone;c;-605.6;-300.3
 248;C6H10O6;6;10;6;0;0;O=C1OC(C(O)CO)C(O)C1O;D-gaIactonic acid-y-Iactone;c;-607.6;-298.3
@@ -258,40 +258,40 @@
 256;C5H8N2O2;5;8;2;2;0;CC1(C(=O)NC(=O)N1)C;5,5-dimethyl hydantoin;c;-617.1;-126.4
 257;C5H8N2O2;5;8;2;2;0;CN1CCC(=O)NC1=O;4-methylhydrouracil ;c;-618;-125.5
 258;C5H9NO3;5;9;3;1;0;C1C(CNC1C(=O)O)O;L-hydroxyproline ;c;-619.6;-158.1
-259;  C5H8O2 ;5;8;2;0;0;O=C(O)C(=CC)C;tiglic acid (cis-a,B- dimethylacrylic acid);c;-626;-117.3
+259;  C5H8O2Â ;5;8;2;0;0;O=C(O)C(=CC)C;tiglic acid (cis-a,B-Â dimethylacrylic acid);c;-626;-117.3
 260;C5H10N2O3;5;10;3;2;0;CC(C(=O)NCC(=O)O)N;DL-alanylglycine;c;-626.19;-185.64
 261;C4H10O2 ;4;10;2;0;0;COCCOC;1,2-dimethoxyethane ;liq;-627.76;-90.02
-262;C6H8O4 ;6;8;4;0;0; ;hexa-2-ene-1,6-dioic acid ;c;-629;-209
+262;C6H8O4 ;6;8;4;0;0;Â ;hexa-2-ene-1,6-dioic acid ;c;-629;-209
 263;C6H8O4 ;6;8;4;0;0;C(C=CCC(=O)O)C(=O)O;hexa-3-ene-1,6-dioic acid ;c;-629;-209
 264;C4H10O;4;10;1;0;0;CC(C)(C)O; 2-methyl-2-propanol;c;-630.3;-87.5
 265;C4H10O;4;10;1;0;0;CC(C)(C)O;2-methyl-2-propanol ;liq;-631.92;-85.86
-266;  C5H8O2 ;5;8;2;0;0;O=C(O)C(=CC)C;angelic acid (trans-a,{B- dimethylacrylic acid);c;-634;-108.9
+266;  C5H8O2Â ;5;8;2;0;0;O=C(O)C(=CC)C;angelic acid (trans-a,{B- dimethylacrylic acid);c;-634;-108.9
 267;C4H10O;4;10;1;0;0;CCC(C)O;2-butanol;liq;-635.9;-81.88
-268;C3H6S ;3;6;0;0;1; ;tlliacyclobutane ;liq;-636.9;5.93
+268;C3H6S ;3;6;0;0;1;Â ;tlliacyclobutane ;liq;-636.9;5.93
 269;C4H10O;4;10;1;0;0;CC(C)CO;2-methyl-l-propanol;liq;-637.93;-79.85
 270;C4H10O;4;10;1;0;0;CC(C)CO;I-butanol;liq;-639.53;-78.25
-271;C4H2N2S ;4;2;0;2;1;C1=C(N=CS1)C#N;4-oyanothiazolo ;c;-641.03;52.63
+271;C4H2N2SÂ ;4;2;0;2;1;C1=C(N=CS1)C#N;4-oyanothiazolo ;c;-641.03;52.63
 272;C4H8;4;8;0;0;0;C1CCC1;cyclobutane;liq;-650.22;0.76
-273;C6H5NO2;6;5;2;1;0;C1=CC=NC(=C1)C(=O)O;picolinic· acid ;c;-651.4;-83.701
+273;C6H5NO2;6;5;2;1;0;C1=CC=NC(=C1)C(=O)O;picolinicÂ· acid ;c;-651.4;-83.701
 274;C5H9NO2 ;5;9;2;1;0;C1CC(NC1)C(=O)O;DL-proline ;c;-652;-125.701
 275;C6H8O4;6;8;4;0;0;CC1C(=O)OC(C(=O)O1)C;lactide;c;-653.4;-184.2
 276;C6H10O5;6;10;5;0;0;C1(C(C(=O)OC1C(C(=O)O)O)O)O;saccharinic acid lactone;c;-656.3;-249.6
-277;C4H10O ;4;10;1;0;0;O(CC)CC;dietbyl ether ;g;-657.52;-60.26
+277;C4H10OÂ ;4;10;1;0;0;O(CC)CC;dietbyl ether ;g;-657.52;-60.26
 278;C8H6N4O6 ;8;6;6;4;0;C1(C(=O)NC(=O)NC1=O)C2C(=O)NC(=O)NC2=O;hydurilic acid ;c;-658.2;-299.2
-279;C5H1204 ;5;12;0;0;0;C(C(CO)(CO)CO)O;pentaerythritol;c;-660.1;-220
-280;C6H8O4 ;6;8;4;0;0;COC(=O)C=CC(=O)OC;dimethyl fumarate;liq;-663.3;-174.3
+279;C5H1204Â ;5;12;0;0;0;C(C(CO)(CO)CO)O;pentaerythritol;c;-660.1;-220
+280;C6H8O4Â ;6;8;4;0;0;COC(=O)C=CC(=O)OC;dimethyl fumarate;liq;-663.3;-174.3
 281;C5H5N5;5;5;0;5;0;C1=NC2=NC=NC(=C2N1)N;adenine ;c;-664.25;23.21
 282;C5H5N;5;5;0;1;0;C1=CC=NC=C1;pyridine ;liq;-665;23.96
 283;C2H6S2 ;2;6;0;0;2;CSSC;2,3-dithiabutane ;liq;-665.98;-14.82
 284;C6H14O7 ;6;14;7;0;0;C(C1C(C(C(C(O1)O)O)O)O)O.O;a-D-glucose hydrate;c;-667.54;-374.97
 285;C2H6S2 ;2;6;0;0;2;C(CS)S;1,2-ethanedithiol ;liq;-667.97;-12.83
-286; C6H10O4 ;6;10;4;0;0;C(CCC(=O)O)CC(=O)O;adipic acid ;c;-668.29;-237.6
+286; C6H10O4 ;6;10;4;0;0;C(CCC(=O)O)CC(=O)O;adipic acidÂ ;c;-668.29;-237.6
 287;C4H6N6;4;6;0;6;0;;3-azido-5-ethyl-s-triazole ;c;-668.5;87.4
-288;C6H8O4 ;6;8;4;0;0;COC(=O)C=CC(=O)OC;dimethyl maleate ;liq;-669.4;-168.2
-289;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;a-D-glucose  ;c;-669.94;-304.26
-290;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;a-D-galactose ;c;-670;-304.1
-291;C6H12O6;6;12;6;0;0;C1C(C(C(C(O1)(CO)O)O)O)O;L-sorbose ;c;-670;-303.6
-292;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;B-D-glucose  ;c;-671.44;-302.76
+288;C6H8O4Â ;6;8;4;0;0;COC(=O)C=CC(=O)OC;dimethyl maleate ;liq;-669.4;-168.2
+289;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;a-D-glucoseÂ Â ;c;-669.94;-304.26
+290;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;a-D-galactoseÂ ;c;-670;-304.1
+291;C6H12O6;6;12;6;0;0;C1C(C(C(C(O1)(CO)O)O)O)O;L-sorboseÂ ;c;-670;-303.6
+292;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;B-D-glucoseÂ Â ;c;-671.44;-302.76
 293;C6H12O6;6;12;6;0;0;C(C1C(C(C(O1)(CO)O)O)O)O;B-D-fructose;c;-672;-302.2
 294;C6H12O6;6;12;6;0;0;C(C1C(C(C(C(O1)O)O)O)O)O;D-mannose;c;-672;-301.9
 295;C4H9N;4;9;0;1;0;C1CCNC1;pyrrolidine;liq;-673.75;-9.87
@@ -318,40 +318,40 @@
 316;C5H11NO2 ;5;11;2;1;0;CCCCC(=O)ON;o-aminovaleric acid ;c;-701.5;-144.5
 317;C5H9NO;5;9;1;1;0;C1CCNC(=O)C1;a-piperidone ;c;-704.4;-73.301
 318;C5H8O ;5;8;1;0;0;C1CC=COC1;dihydropyran, 4H ;liq;-706;-37.5
-319;C6H10O4 ;6;10;4;0;0;COC(=O)CCC(=O)OC;dimethyl succinate;liq;-706.3;-199.6
+319;C6H10O4Â ;6;10;4;0;0;COC(=O)CCC(=O)OC;dimethyl succinate;liq;-706.3;-199.6
 320;C4H10N2;4;10;0;2;0;C1CNCCN1;piperazine ;c;-706.88;-10.9
-321;C4H5NS ;4;5;0;1;1;CC1=CSC=N1;4-methylthiazole ;liq;-707.18;16.31
+321;C4H5NSÂ ;4;5;0;1;1;CC1=CSC=N1;4-methylthiazole ;liq;-707.18;16.31
 322;C5H10O2;5;10;2;0;0;C1CC(OC1)CO;tetrahydrofurfuryl alcohol ;liq;-707.7;-104.1
 323;C5H7N3;5;7;0;3;0;C1=CC(=NC(=C1)N)N;2,6-diaminopyridine;c;-707.9;1.5
 324;C6H11N3O4;6;11;4;3;0;C(C(=O)NCC(=O)NCC(=O)O)N;diglycylglycine;c;-709.2;-230.8
-325;C6H14O6 ;6;14;6;0;0;CC1C(C(C(C(O1)O)O)O)O.O;a-L-rhamnose monohydrate;c;-711;-331.3
+325;C6H14O6Â ;6;14;6;0;0;CC1C(C(C(C(O1)O)O)O)O.O;a-L-rhamnose monohydrate;c;-711;-331.3
 326;C6H12O5 ;6;12;5;0;0;CC1C(C(C(C(O1)O)O)O)O;D-fucose;c;-711;-262.7
-327;C7H12O7;7;12;7;0;0;C(C(C(C1C(C(C(=O)O1)O)O)O)O)O;D-gluco-D-gulo-heptonic acid-y-Iactone;c;-712.7;-355.6
+327;C7H12O7;7;12;7;0;0;C(C(C(C1C(C(C(=O)O1)O)O)O)O)O;D-gluco-D-gulo-heptonicÂ acid-y-Iactone;c;-712.7;-355.6
 328;C5H9NO;5;9;1;1;0;CN1CCCC1=O;N-methylpyrrolidone ;liq;-715.3;-62.64
-329;C4H11N ;4;11;0;1;0;CC(C)(C)N;tert.-butylamine;liq;-715.97;-35.97
+329;C4H11NÂ ;4;11;0;1;0;CC(C)(C)N;tert.-butylamine;liq;-715.97;-35.97
 330;C6H12O5 ;6;12;5;0;0;CC1C(C(C(C(O1)O)O)O)O;B-L-rhamnose;c;-717.7;-256.5
-331;C4H11N ;4;11;0;1;0;CCC(C)N;sec.-butylamine;liq;-719.07;-32.87
-332;C4H11N ;4;11;0;1;0;CC(C)CN;isobutylamine;liq;-720.25;-31.68
-333;C6H14O6 ;6;14;6;0;0;C(C(C(C(C(CO)O)O)O)O)O;dulcitol;c;-720.68;-321.83
-334;C4H11N ;4;11;0;1;0;CCCCN;n-butylamine;liq;-721.42;-30.52
+331;C4H11NÂ ;4;11;0;1;0;CCC(C)N;sec.-butylamine;liq;-719.07;-32.87
+332;C4H11NÂ ;4;11;0;1;0;CC(C)CN;isobutylamine;liq;-720.25;-31.68
+333;C6H14O6Â ;6;14;6;0;0;C(C(C(C(C(CO)O)O)O)O)O;dulcitol;c;-720.68;-321.83
+334;C4H11NÂ ;4;11;0;1;0;CCCCN;n-butylamine;liq;-721.42;-30.52
 335;C7H6O3;7;6;3;0;0;C1=CC=C(C(=C1)C(=O)O)O;salicylic acid;c;-722.4;-140.9
-336;C6H14O6 ;6;14;6;0;0;C(C(C(C(C(CO)O)O)O)O)O;D-manmtoi;liq;-722.97;-319.54
+336;C6H14O6Â ;6;14;6;0;0;C(C(C(C(C(CO)O)O)O)O)O;D-manmtoi;liq;-722.97;-319.54
 337;C5H12N2O2 ;5;12;2;2;0;C(CC(C(=O)O)N)CN;DL-ornithine ;c;-724.1;-156
-338;C6H10O3 ;6;10;3;0;0;; acetone glyceraldehyde;liq;-726;-180
-339;C4H11N ;4;11;0;1;0;CCNCC;diethylamine;liq;-727.2;-24.7
-340;C6H6O ;6;6;1;0;0;C1=CC=C(C=C1)O;phenol;c;-729.8;-39.45
+338;C6H10O3Â ;6;10;3;0;0;; acetone glyceraldehyde;liq;-726;-180
+339;C4H11NÂ ;4;11;0;1;0;CCNCC;diethylamine;liq;-727.2;-24.7
+340;C6H6OÂ ;6;6;1;0;0;C1=CC=C(C=C1)O;phenol;c;-729.8;-39.45
 341;C4H7N7;4;7;0;7;0;;4-amino-3-azido-5-ethyl-s-triazole ;c;-733.8;118.5
 342;C8H8N6O6 ;8;8;6;6;0;C1(=C(NC(=O)NC1=O)[O-])N=C2C(=O)NC(=O)NC2=O.[NH4+]; murexide ;c;-736;-289.7
-343;C5H10O ;5;10;1;0;0;CCCC(=O)C;2-pentanone (methyl n propyl ketone);liq;-740.78;-71.05
-344;C5H10O ;5;1;1;0;0;CCC(=O)CC;3-pentanone H1OO (diethyl  ketone);liq;-740.96;-70.87
-345;C5H10O ;5;10;1;0;0;CCCCC=O;n-valeraldehyde (1- pentanal);liq;-742;-70
+343;C5H10OÂ ;5;10;1;0;0;CCCC(=O)C;2-pentanone (methyl n propyl ketone);liq;-740.78;-71.05
+344;C5H10OÂ ;5;1;1;0;0;CCC(=O)CC;3-pentanone H1OOÂ (diethylÂ  ketone);liq;-740.96;-70.87
+345;C5H10OÂ ;5;10;1;0;0;CCCCC=O;n-valeraldehyde (1- pentanal);liq;-742;-70
 346;C6H10O4 ;6;10;4;0;0;;erythritol diformal;c;-744.1;-161.8
 347;C6H8O2;6;8;2;0;0;CC=CC=CC(=O)O;sorbic acid;c;-744.2;-93.4
 348;C6H4N2;6;4;0;2;0;C1=CC(=CN=C1)C#N;3-cyanopyridine;c;-747.17;46.23
-349;C5H10O ;5;10;1;0;0;C1CCOCC1;tetrahydropyran;liq;-750.7;-61.1
-350;C4H12N2 ;4;12;0;1;0;CC(C)(CN)N;2-methyl-1,2-propanediamine;liq;-754.09;-32
-351;C4H12N2 ;4;12;0;2;0;CCC(CN)N;1,2-butanediamine;liq;-757.35;-28.74
-352;C5H10O ;5;10;1;0;0;C1CCOCC1;tetrahydropyran;g;-758.44;-53.39
+349;C5H10OÂ ;5;10;1;0;0;C1CCOCC1;tetrahydropyran;liq;-750.7;-61.1
+350;C4H12N2Â ;4;12;0;1;0;CC(C)(CN)N;2-methyl-1,2-propanediamine;liq;-754.09;-32
+351;C4H12N2Â ;4;12;0;2;0;CCC(CN)N;1,2-butanediamine;liq;-757.35;-28.74
+352;C5H10OÂ ;5;10;1;0;0;C1CCOCC1;tetrahydropyran;g;-758.44;-53.39
 353;C6H6N4O;6;6;1;4;0;;7 -methylhypoxanthine;c;-759.4;-9.9
 354;C4H6N10;4;6;0;10;0;;2,2' -dimethyl-5,5' -azotetra-zole ;c;-761.5;180.3
 355;C8H6O4;8;6;4;0;0;C1=CC(=CC=C1C(=O)O)C(=O)O; p-phthalic acid;c;-762.3;-195.05
@@ -369,11 +369,11 @@
 367;C5H9N;5;9;0;1;0;C1CNCC=C1;1,2,5,6-tetrahydropyridine ;liq;-785.7;8
 368;C5H12;5;12;0;0;0;C1CCCC1;cyclopentane;liq;-786.55;-25.28
 369;C6H6;6;6;0;0;0;C1=CC=CC=C1;benzene;g;-789.06;19.81
-370;C6H8N2O3  ;6;8;3;2;0;C1=CC=C(C=C1)N.[N+](=O)(O)[O-];aniline nitrate (c)  ;c;-793.9;-43.7
+370;C6H8N2O3 Â ;6;8;3;2;0;C1=CC=C(C=C1)N.[N+](=O)(O)[O-];aniline nitrate (c)Â Â ;c;-793.9;-43.7
 371;C6H5N3;6;5;0;3;0;C1=CC2=NNN=C2C=C1;benzotriazole ;c;-794.84;59.74
 372;C5H12O;5;12;1;0;0;CCCCCO;I-pentanol;liq;-795.8;-84.27
-373;C7H10O4 ;7;10;4;0;0;CC(=C(CC(=O)O)C(=O)O)C;tetraconic acid;c;-796;-204
-374;C7H6O2 ;7;6;2;0;0;C1=CC=C(C(=C1)C=O)O;salicylaldehyde ;liq;-796.4;-66.9
+373;C7H10O4Â ;7;10;4;0;0;CC(=C(CC(=O)O)C(=O)O)C;tetraconic acid;c;-796;-204
+374;C7H6O2Â ;7;6;2;0;0;C1=CC=C(C(=C1)C=O)O;salicylaldehyde ;liq;-796.4;-66.9
 375;C7H7NO2;7;7;2;1;0;C1=CC(=CC=C1C(=O)O)N;p-aminobenzoic acid ;c;-798.7;-98.8
 376;C7H7NO2;7;7;2;1;0;C1=CC(=CC(=C1)N)C(=O)O;m-aminobenzoic acid ;c;-799.3;-98.2
 377;C7H12O5;7;12;5;0;0;CC(=O)OCC(COC(=O)C)O;glyceryl-1,3-diacetate;liq;-800;-268.2
@@ -381,8 +381,8 @@
 379;C6H12N2O3;6;12;3;2;0;CCOC(=O)CNC(=O)CN;ethyl glycylglycinate;c;-803.7;-170.5
 380;C5H11NO2S;5;11;2;1;1;CSCCC(C(=O)O)N;L-methionine ;c;-809;-180.4
 381;C5H11NO2S ;5;11;2;1;1;CSCCC(C(=O)O)N;L-methionine ;c;-809;-180.4
-382;C6H12O3 ;6;12;2;0;0;CC1OC(OC(O1)C)C;paraldehyde ;liq;-810;-164.2
-383;C6H7N ;6;7;0;1;0;C1=CC=C(C=C1)N;aniline ;liq;-810.96;7.55
+382;C6H12O3Â ;6;12;2;0;0;CC1OC(OC(O1)C)C;paraldehyde ;liq;-810;-164.2
+383;C6H7NÂ ;6;7;0;1;0;C1=CC=C(C=C1)N;aniline ;liq;-810.96;7.55
 384;C6H12O3;6;12;3;0;0;CC1(OCC(O1)CO)C;acetone glycerol;c;-811;-163
 385;C6H7N;6;7;0;1;0;CC1=CC=NC=C1;4-methylpyridine ;liq;-816.99;13.58
 386;C6H7N;6;7;0;1;0;CC1=CC=CC=N1;2-methylpyridine ;liq;-817.24;13.83
@@ -392,61 +392,61 @@
 390;C5H11N;5;11;0;1;0;C1CCNCC1;piperidine ;liq;-824.94;-21.05
 391;C6H7N;6;7;0;1;0;CC1=CC=CC=N1;2-methylpyridine ;g;-827.46;24.05
 392;C6H7N;6;7;0;1;0;CC1=CC=NC=C1;4-methylpyridine ;g;-827.85;24.44
-393;C5H6S ;5;6;0;0;1;CC1=CSC=C1;3-methylthiophene ;liq;-829.46;10.38
+393;C5H6SÂ ;5;6;0;0;1;CC1=CSC=C1;3-methylthiophene ;liq;-829.46;10.38
 394;C6H7N;6;7;0;1;0;CC1=CN=CC=C1;3-methylpyridine;g;-829.71;26.3
-395;C5H6S ;5;6;0;0;1;S1C=CC=C1C;2-methylthiophene  ;liq;-829.83;10.75
-396;C4H10S ;4;10;0;0;1;CCCCS;1-butanethiol ;liq;-831.97;-29.69
+395;C5H6SÂ ;5;6;0;0;1;S1C=CC=C1C;2-methylthiophene Â ;liq;-829.83;10.75
+396;C4H10SÂ ;4;10;0;0;1;CCCCS;1-butanethiol ;liq;-831.97;-29.69
 397;C6H12O2;6;12;2;0;0;O=C(O)CCCCC;caproic acid (hexanoic acid);liq;-834.49;-139
-398;C7H16O7 ;7;16;7;0;0;C(C(C(C(C(C(CO)O)O)O)O)O)O;D-perseitol ;c;-835;-369.7
+398;C7H16O7Â ;7;16;7;0;0;C(C(C(C(C(C(CO)O)O)O)O)O)O;D-perseitolÂ ;c;-835;-369.7
 399;C8H14O8;8;14;8;0;0;;D-gluco-a,a-octonic acid-y-lactone;c;-836.4;-394.2
 400;C5H12;5;12;0;0;0;CCCCC;n-pentane;liq;-838.78;-41.37
 401;C7H10O7;7;10;7;0;0;;D.gluco-a-heptite;c;-840;-364.5
 402;C7H14O6;7;14;6;0;0;COC1C(C(C(C(O1)CO)O)O)O;B-methyl-D-glucopyranoside;c;-840.8;-295.8
 403;C8H6O3;8;6;3;0;0;C1=CC=C(C=C1)C(=O)C(=O)O;phenylglyoxylic acid;c;-842.1;-115.3
-404;C7H6O ;7;6;1;0;0;C1=CC=C(C=C1)C=O;benzaldehyde ;liq;-843.2;-20.1
+404;C7H6OÂ ;7;6;1;0;0;C1=CC=C(C=C1)C=O;benzaldehyde ;liq;-843.2;-20.1
 405;C5H12;5;12;0;0;0;CCCCC;n-pentane;g;-845.16;-34.99
 406;C7H8N4O2;7;8;2;4;0;CN1C=NC2=C1C(=O)NC(=O)N2C;theobromine;c;-845.2;-86.4
 407;C7H7NO;7;7;1;1;0;C1=CC=C(C=C1)C(=O)N;benzamide;c;-849.04;-48.42
-408;C7H14O6 ;7;14;6;0;0;COC1C(C(C(C(O1)CO)O)O)O;B-methyl-D-glucofuranoside;liq;-849.1;-287.5
+408;C7H14O6Â ;7;14;6;0;0;COC1C(C(C(C(O1)CO)O)O)O;B-methyl-D-glucofuranoside;liq;-849.1;-287.5
 409;C6H12O2;6;12;2;0;0;CCCCC(=O)OC;methyl valerate;liq;-851.31;-122.89
-410;C6H13NO2 ;6;13;2;1;0;C(CCC(=O)O)CCN;y-aminocaproic acid ;c;-853.9;-154.5
-411;C6H13NO2 ;6;13;2;1;0;C(CCC(=O)O)CCN;o-aminocaproic. acid ;c;-854.6;-153.7
-412;C6H13NO2 ;6;13;2;1;0;CCCCC(C(=O)O)N;a-aminocaproic acid (norleucine)  ;c;-855.6;-152.7
-413;C6H13NO2 ;6;13;2;1;0;C(CCC(=O)O)CCN;e-aminocaproic acid;c;-855.6;-152.7
-414;C6H13NO2 ;6;13;2;1;0;CC(C)CC(C(=O)O)N;DL-Ieucine ;c;-855.62;-152.74
-415;C6H13NO2 ;6;13;2;1;0;CC(C)CC(C(=O)O)N;L-Ieucine;c;-856.39;-151.97
-416;C6H13NO2 ;6;13;2;1;0;CC(C)CC(C(=O)O)N;D-Ieucine ;c;-856.39;-151.97
-417;C6H13NO2 ;6;13;2;1;0;CCC(C)C(C(=O)O)N;DL- and L-isoleucine ;c;-856.5;-151.8
+410;C6H13NO2Â ;6;13;2;1;0;C(CCC(=O)O)CCN;y-aminocaproic acid ;c;-853.9;-154.5
+411;C6H13NO2Â ;6;13;2;1;0;C(CCC(=O)O)CCN;o-aminocaproic. acid ;c;-854.6;-153.7
+412;C6H13NO2Â ;6;13;2;1;0;CCCCC(C(=O)O)N;a-aminocaproic acidÂ (norleucine)  ;c;-855.6;-152.7
+413;C6H13NO2Â ;6;13;2;1;0;C(CCC(=O)O)CCN;e-aminocaproic acid;c;-855.6;-152.7
+414;C6H13NO2Â ;6;13;2;1;0;CC(C)CC(C(=O)O)N;DL-Ieucine ;c;-855.62;-152.74
+415;C6H13NO2Â ;6;13;2;1;0;CC(C)CC(C(=O)O)N;L-Ieucine;c;-856.39;-151.97
+416;C6H13NO2Â ;6;13;2;1;0;CC(C)CC(C(=O)O)N;D-Ieucine ;c;-856.39;-151.97
+417;C6H13NO2Â ;6;13;2;1;0;CCC(C)C(C(=O)O)N;DL- and L-isoleucine ;c;-856.5;-151.8
 418;C8H5NO2 ;8;5;2;1;0;C1=CC=C2C(=C1)C(=O)C(=O)N2;isatin ;c;-860.5;-62.7
 419;C7H7NO;7;7;1;1;0;C1=CC=C(C=C1)NC=O;formanilide;c;-861.2;-36.2
 420;C6H11NO;6;11;1;1;0;C1CCC(=O)NCC1;e-caprolactam;c;-861.4;-78.6
-421;C7H12O4 ;7;12;4;0;0;COC(=O)CCCC(=O)OC;dimethyl glutarate;liq;-862.3;-205.9
+421;C7H12O4Â ;7;12;4;0;0;COC(=O)CCCC(=O)OC;dimethyl glutarate;liq;-862.3;-205.9
 422;C6H11NO;6;11;1;1;0;CN1CCCCC1=O;N-methyl piperidone ;liq;-870.04;-70
 423;C6H14N2O2;6;14;2;2;0;C(CCN)CC(C(=O)O)N;DL-Iysine ;c;-880.3;-162.2
 424;C7H13NO3 ;7;13;3;1;0;CC(C)CC(C(=O)O)NC=O;N-formyl-DL-leucine;c;-880.3;-222.1
-425;C7H8O ;7;8;1;0;0;CC1=CC=CC=C1O;o-cresol;c;-882.72;-48.9
-426;C7H8O ;7;8;1;0;0;CC1=CC=C(C=C1)O;p-cresol;c;-883.99;-47.63
-427;C7H8O ;7;8;1;0;0;CC1=CC(=CC=C1)O;m-cresol;c;-885.25;-46.37
+425;C7H8OÂ ;7;8;1;0;0;CC1=CC=CC=C1O;o-cresol;c;-882.72;-48.9
+426;C7H8OÂ ;7;8;1;0;0;CC1=CC=C(C=C1)O;p-cresol;c;-883.99;-47.63
+427;C7H8OÂ ;7;8;1;0;0;CC1=CC(=CC=C1)O;m-cresol;c;-885.25;-46.37
 428;C8H8O3;8;8;3;0;0;C1=CC=C(C=C1)C(C(=O)O)O;L-mandelic acid;c;-886.9;-138
 429;C8H8O3;8;8;3;0;0;C1=CC=C(C=C1)C(C(=O)O)O;DL-mandelic acid;c;-887.2;-138
 430;C7H6N4O;7;6;1;4;0;C1=CC=C(C=C1)N2C(=O)NN=N2;1-phenyl-5-hydroxytetrazole ;c;-890;26.7
 431;C6H14N4O2;6;14;2;4;0;C(CC(C(=O)O)N)CN=C(N)N;L-arginine;c;-893.85;-148.66
-432;C8H8O3 ;8;8;3;0;0;COC(=O)C1=CC=CC=C1O;methyl salicylate;liq;-898.6;-127.1
+432;C8H8O3Â ;8;8;3;0;0;COC(=O)C1=CC=CC=C1O;methyl salicylate;liq;-898.6;-127.1
 433;C8H8O3;8;8;3;0;0;C1=CC=C(C=C1)OCC(=O)O;CaRsOs phenoxyacetic acid;c;-902.9;-122
-434;C8H7NO2 ;8;7;2;1;0;;dioxin dole ;c;-914.6;-76.9
+434;C8H7NO2Â ;8;7;2;1;0;;dioxin dole ;c;-914.6;-76.9
 435;C8H8N2O2;8;8;2;2;0;C1=CC=C(C(=C1)C(=O)N)C(=O)N;phthalamide;c;-921.3;-104.4
-436;C6H6S ;6;6;0;0;1;C1=CC=C(C=C1)S;benzenethiol;liq;-928.45;15.32
-437;C5H10S ;5;10;0;0;1;C1CCSCC1;thiacyclohexane ;liq;-930.38;-25.33
+436;C6H6SÂ ;6;6;0;0;1;C1=CC=C(C=C1)S;benzenethiol;liq;-928.45;15.32
+437;C5H10SÂ ;5;10;0;0;1;C1CCSCC1;thiacyclohexane ;liq;-930.38;-25.33
 438;C8H8O2;8;8;2;0;0;C1=CC=C(C=C1)CC(=O)O;phenylacetic acid;c;-930.4;-95.3
 439;C7H8N4;7;8;0;4;0;C1=CC=C(C=C1)C2NNN=N2;5-phenyltetnizole ;c;-933.3;70
 440;C7H7N;7;7;0;1;0;C=CC1=CC=CC=N1;2-vinylpyridine ;liq;-934.7;37.2
 441;C7H14N2O3;7;14;3;2;0;CC(C)C(C(=O)O)NC(=O)CN;glycylvaline;c;-936.6;-200
 442;C6H12;6;12;0;0;0;C1CCCCC1;cyclohexane;liq;-936.87;-37.33
-443;C8H8O2 ;8;8;2;0;0;COC(=O)C1=CC=CC=C1;methyl benzoate ;liq;-945.9;-79.8
+443;C8H8O2Â ;8;8;2;0;0;COC(=O)C1=CC=CC=C1;methyl benzoate ;liq;-945.9;-79.8
 444;C8H14N4O5;8;14;5;4;0;C(C(=O)NCC(=O)NCC(=O)NCC(=O)O)N;triglycylglycine;c;-945.9;-284.7
-445;C7H12N2O2 ;7;12;2;2;0;;glycylvalyl anhydride ;c;-947.7;-120.5
+445;C7H12N2O2Â ;7;12;2;2;0;;glycylvalyl anhydride ;c;-947.7;-120.5
 446;C7H6N4;7;6;0;4;0;C1=CC=C(C=C1)N2C=NN=N2;1-phenyltetrazole ;c;-949.8;86.5
-447;C8H7NO ;8;7;1;1;0;C1C2=CC=CC=C2NC1=O;oxindole ;c;-950.3;-41.2
+447;C8H7NOÂ ;8;7;1;1;0;C1C2=CC=CC=C2NC1=O;oxindole ;c;-950.3;-41.2
 448;C6H14N6O6;6;14;6;6;0;C1N2CN3CN1CN(C2)C3.[N+](=O)(O)[O-].[N+](=O)(O)[O-];hexamethylenetetramine dinitrate;c;-953.9;88.6
 449;C8H9NO2 ;8;9;2;1;0;O=C(O)C(N)C=1C=CC=CC1;a-phenyl glycine;c;-956.6;-103.2
 450;C6H10O4S2 ;6;10;2;0;2;;,B,,B' -dithiodilactic acid ;liq;-962.7;-230.9
@@ -461,10 +461,10 @@
 459;C6H12N2;6;12;0;2;0;C1CN2CCN1CC2;triethylenediamine;c;-970.8;-3.4
 460;C7H9N;7;9;0;1;0;CC1=CC(=CN=C1)C;3,5-dimethylpyridine ;liq;-971.14;5.36
 461;C7H7N5;7;7;0;5;0;C1=CC=C(C=C1)N2C(=NN=N2)N;1-phenyl-5-aminotetrazole;c;-971.8;74.3
-462;C7H9N;7;9;0;1;0;CNC1=CC=CC=C1;N-methylaniline (liq)  ;liq;-973;7.7
+462;C7H9N;7;9;0;1;0;CNC1=CC=CC=C1;N-methylaniline (liq)Â Â ;liq;-973;7.7
 463;C4H10S2;4;10;0;0;2;C(CCS)CS;1,4-butanedithioI;liq;-980.42;-25.11
-464;C8H12N2O3 ;8;12;3;2;0;CCC1(C(=O)NC(=O)NC1=O)CC;diethylbarbituric acid (veronal)  ;c;-983.6;-178
-465;C5H12S ;5;12;0;0;1;CCCCCS;1-pentanethiol ;liq;-988.3;-35.72
+464;C8H12N2O3Â ;8;12;3;2;0;CCC1(C(=O)NC(=O)NC1=O)CC;diethylbarbituric acid (veronal)Â Â ;c;-983.6;-178
+465;C5H12SÂ ;5;12;0;0;1;CCCCCS;1-pentanethiol ;liq;-988.3;-35.72
 466;C7H14O2;7;14;2;0;0;CCCCCCC(=O)O;enanthic acid (heptanoic acid);liq;-990.81;-145
 467;C6H14;6;14;0;0;0;CCCCCC;n-hexane;liq;-995.01;-47.5
 468;C6H12N4;6;12;0;4;0;C1N2CN3CN1CN(C2)C3;hexamethylenetetramine;c;-1002.9;28.7
@@ -476,26 +476,26 @@
 474;C7H13NO2;7;13;2;1;0;C(CCCN)CCC(=O)O;~-aminoenanthylic acid ;c;-1011.1;-159.6
 475;C6H16N2O3;6;16;3;2;0;CCN(CC)CC.[N+](=O)(O)[O-];triethylamine nitrate;c;-1011.9;-98.9
 476; C7H13NO;7;13;1;1;0;CC1CCC(=O)NCC1; 5-methylcaprolactam ;c;-1015.5;-86.9
-477; C7H13NO ;7;13;1;1;0;CC1CCCCC(=O)N1; 7-methylcaprolactam ;c;-1015.9;-86.5
+477; C7H13NOÂ ;7;13;1;1;0;CC1CCCCC(=O)N1; 7-methylcaprolactam ;c;-1015.9;-86.5
 478;C6H12N2O4S2;6;12;2;4;2;C(C(C(=O)O)N)SSCC(C(=O)O)N;L-cystine ;c;-1016.3;-245.7
-479;C6H12N2O4S2 ;6;12;4;2;2;C(C(C(=O)O)N)SSCC(C(=O)O)N;L-cystine;c;-1016.3;-245.7
-480;C8H10N4O2 ;8;10;2;4;0;CN1C=NC2=C1C(=O)N(C(=O)N2C)C;caffeine (methyl theo bromine);c;-1017.8;-76.2
+479;C6H12N2O4S2Â ;6;12;4;2;2;C(C(C(=O)O)N)SSCC(C(=O)O)N;L-cystine;c;-1016.3;-245.7
+480;C8H10N4O2Â ;8;10;2;4;0;CN1C=NC2=C1C(=O)N(C(=O)N2C)C;caffeine (methyl theo bromine);c;-1017.8;-76.2
 481;C8H14O4 ;8;14;4;0;0;COC(=O)CCCCC(=O)OC;dimethyl adipate ;liq;-1018.7;-211.9
-482;C7H13NO ;7;13;1;1;0;C1CCCNC(=O)CC1;-enantholactam ;c;-1019.2;-83.2
-483;C8H7N ;8;7;0;1;0;C1=CC=C2C(=C1)C=CN2;indole ;c;-1021.3;29.8
+482;C7H13NOÂ ;7;13;1;1;0;C1CCCNC(=O)CC1;-enantholactam ;c;-1019.2;-83.2
+483;C8H7NÂ ;8;7;0;1;0;C1=CC=C2C(=C1)C=CN2;indole ;c;-1021.3;29.8
 484;C7H13NO;7;13;1;1;0;CN1CCCCCC1=O;. N-methylcaprolactam ;liq;-1029.1;-73.3
 485;C8H10O ;8;10;1;0;0;CCC1=CC=C(C=C1)O;4-ethylphenol;c;-1040.35;-53.63
 486;C8H10O ;8;10;1;0;0;CCC1=CC(=CC=C1)O;3-ethylphenol;c;-1042.77;-51.21
 487;C8H10O ;8;10;1;0;0;CCC1=CC=CC=C1O;2-ethylphenol;c;-1044.07;-49.91
-488; C6H15N ;6;15;0;1;0;CCN(CC)CC;triethylamine;liq;-1044.6;-32.1
+488; C6H15NÂ ;6;15;0;1;0;CCN(CC)CC;triethylamine;liq;-1044.6;-32.1
 489;C8H14O4 ;8;14;4;0;0;CC(=O)C(CCCO)(C(=O)C)O;erythritol diacetal;c;-1049;-182
 490;C9H11NO3;9;11;3;1;0;C1=CC(=CC=C1CC(C(=O)O)N)O;L-tyrosine ;c;-1058.8;-163.4
-491;C7H14O ;7;14;1;0;0;CCCCCCC=O;n-heptaldehyde ;liq;-1062.2;-74.4
+491;C7H14OÂ ;7;14;1;0;0;CCCCCCC=O;n-heptaldehyde ;liq;-1062.2;-74.4
 492;C6H10N10;6;10;0;10;0;;2,2' -diethyl-5,5' -azotetrazole ;c;-1062.5;156.6
-493;C9H7NO ;9;7;1;1;0;C1=CC2=C(C(=C1)O)N=CC=C2;8-hydroxyquinoline ;c;-1065.7;-19.9
-494;C10H16N2O8 ;10;16;8;2;0;O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)O;ethylenediaminetetraacetic  acid;c;-1066.5;-420.5
+493;C9H7NOÂ ;9;7;1;1;0;C1=CC2=C(C(=C1)O)N=CC=C2;8-hydroxyquinoline ;c;-1065.7;-19.9
+494;C10H16N2O8Â ;10;16;8;2;0;O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CC(=O)O;ethylenediaminetetraaceticÂ Â acid;c;-1066.5;-420.5
 495;C9H14O6 ;9;14;6;0;0;;mannitol triformal;c;-1083;-242
-496;C8H6N6 ;8;6;0;6;0;;3-azido-5-phenyl-s-triazole ;c;-1084.5;127.1
+496;C8H6N6Â ;8;6;0;6;0;;3-azido-5-phenyl-s-triazole ;c;-1084.5;127.1
 497;C7H8S ;7;8;0;0;1;C1=CC=C(C=C1)CS;benzyl mercaptan ;liq;-1086;10.4
 498;C7H8S ;7;8;0;0;1;CSC1=CC=CC=C1;phenyl methyl sulfide ;liq;-1087;-11.5
 499;C9H16N2O5;9;16;5;2;0;;J3-carhethoxyglycylglycine ethyl ester;c;-1089.5;-303.5
@@ -507,20 +507,20 @@
 505;C9H11NO2 ;9;11;2;1;0;O=C(O)C(N)CC=1C=CC=CC1;DL- and L-phenylalanine;c;-1110.3;-111.9
 506;C10H10O4;10;10;4;0;0;COC(=O)C1=CC(=CC=C1)C(=O)OC;dimethyl m-phthalate;c;-1111;-171
 507;C10H10O4;10;10;4;0;0;COC(=O)C1=CC=C(C=C1)C(=O)OC;dimethyl p-phthalate;c;-1112;-170
-508;C9H8N2O ;9;8;1;2;0;;di-a-pyrrylketone ;c;-1115;-4.7
-509;C10H9NO3 ;10;9;3;1;0;;phenylalanine-N-carboxylic  acid anhydride ;c;-1115.6;-132.3
+508;C9H8N2OÂ ;9;8;1;2;0;;di-a-pyrrylketone ;c;-1115;-4.7
+509;C10H9NO3Â ;10;9;3;1;0;;phenylalanine-N-carboxylicÂ  acid anhydride ;c;-1115.6;-132.3
 510;C9H16N2O5;9;16;5;2;0;;a-carbethoxyglycyl glycine ethyl ester;c;-1117.7;-275.3
-511;C7H11N5 ;7;11;0;5;0;;l-allyl-5-allylaminotetrazole ;c;-1117.8;83.7
-512;C7H11N5 ;7;11;0;5;0;;5-diallylaminotetrazole ;c;-1118;83.9
+511;C7H11N5Â ;7;11;0;5;0;;l-allyl-5-allylaminotetrazole ;c;-1117.8;83.7
+512;C7H11N5Â ;7;11;0;5;0;;5-diallylaminotetrazole ;c;-1118;83.9
 513;C10H10O4;10;10;4;0;0;COC(=O)C1=CC=CC=C1C(=O)OC;dimethyl o-phthalate;liq;-1120;162
 514;C9H7N ;9;7;0;1;0;C1=CC=C2C(=C1)C=CC=N2;quinoline;liq;-1122.9;37.3
 515;C9H7N ;9;7;0;1;0;C1=CC=C2C=NC=CC2=C1;isoquinoline ;c;-1123.5;37.9
 516;C10H8N2O2 ;10;8;2;2;0;C1=CC=C(C=C1)N2C=CC(=O)NC2=O;4-phenyl uracil ;c;-1132.1;-81.7
 517;C10H11NO4;10;11;4;1;0;;anisoyl glycine ;c;-1135.3;-180.9
-518;C8H11N ;8;11;0;1;0;C=1C=CC(=CC1)N(C)C;N ,N-dimethylaniline;liq;-1136.3;8.2
-519;C6H14S ;6;14;0;0;1;CCCCCCS;I-hexanethiol ;liq;-1144.5;-41.84
+518;C8H11NÂ ;8;11;0;1;0;C=1C=CC(=CC1)N(C)C;N ,N-dimethylaniline;liq;-1136.3;8.2
+519;C6H14SÂ ;6;14;0;0;1;CCCCCCS;I-hexanethiol ;liq;-1144.5;-41.84
 520;C8H16O2;8;16;2;0;0;CCCCCCCC(=O)O;caprylic acid (octanoic acid);liq;-1147;-151.93
-521;C8H7N7 ;8;7;0;7;0;;4-amino-3-azido-5-phenyl-s triazole ;c;-1151;159.5
+521;C8H7N7Â ;8;7;0;7;0;;4-amino-3-azido-5-phenyl-s triazole ;c;-1151;159.5
 522;C8H16O2;8;16;2;0;0;CCCCCCC(=O)OC;methyl enanthate;liq;-1163.4;-135.53
 523;C10H12O4;10;12;4;0;0;;glyceryl-1-benzoate;c;-1164.61;-185.8
 524;C10H11NO3;10;11;3;1;0;C1=CC=C(C=C1)CC(=O)NCC(=O)O;phenaceturic acid;c;-1165.2;-151
@@ -529,22 +529,22 @@
 527;C10H11NO3;10;11;3;1;0;O=C(O)CNC(=O)C1=CC=C(C=C1)C;p-toluyl glycine ;c;-1167.7;-148.5
 528;C10H11NO3;10;11;3;1;0;O=C(O)CNC(=O)C1=CC=C(C=C1)C;o-toluyl glycine ;c;-1167.9;-148.3
 529;C10H11NO3;10;11;3;1;0;CC(C(=O)O)NC(=O)C1=CC=CC=C1;DL-benzoylalanine;c;-1168.3;-147.9
-530;C9H9N ;9;9;0;1;0;CN1C=CC2=CC=CC=C21;a-methylindole ;c;-1168.4;14.5
-531;C9H9N ;9;9;0;1;0;CC1=CNC2=CC=CC=C12;skatole ;c;-1170.2;16.3
+530;C9H9NÂ ;9;9;0;1;0;CN1C=CC2=CC=CC=C21;a-methylindole ;c;-1168.4;14.5
+531;C9H9NÂ ;9;9;0;1;0;CC1=CNC2=CC=CC=C12;skatole ;c;-1170.2;16.3
 532;C10H11NO3;10;11;3;1;0;;benzoyl sarcosine ;c;-1180.5;-135.7
 533;C8H6O;8;6;1;0;0;;n-octaldehyde ;liq;-1218.9;-80
-534;C9H10N2 ;9;10;0;2;0;C1=CNC(=C1)CC2=CC=CN2;dipyrrylmethane ;c;-1219.4;31.4
+534;C9H10N2Â ;9;10;0;2;0;C1=CNC(=C1)CC2=CC=CN2;dipyrrylmethane ;c;-1219.4;31.4
 535;C10H8;10;8;0;0;0;C1=CC=C2C=CC=CC2=C1;naphthalene;c;-1231.8;18
 536;C12H14N4O8;12;14;8;4;0;CN1C(=O)C(C(=O)N(C1=O)C)(C2(C(=O)N(C(=O)N(C2=O)C)C)O)O;amalic acid ;c;-1239.8;-367
 537;C11H12N2O4;11;12;4;2;0;C1=CC=C(C=C1)C(=O)NCC(=O)NCC(=O)O;hippurylglycine;c;-1245.92;-198.54
 538;C10H8;10;8;0;0;0;C1=CC=C2C=CC=CC2=C1;naphthalene;g;-1249.4;35.6
 539;C8H16;8;16;0;0;0;C1CCCCCCC1;cyclooctane;liq;-1258.35;-40.58
 540;C8H17N ;8;17;0;1;0;CCCC1CCCCN1;coniine;liq;-1275.5;-57.6
-541;C10H9N ;10;9;0;1;0;C1=CC=C(C=C1)N2C=CC=C2;a-phenylpyrrole ;c;-1282.4;34.5
+541;C10H9NÂ ;10;9;0;1;0;C1=CC=C(C=C1)N2C=CC=C2;a-phenylpyrrole ;c;-1282.4;34.5
 542;C10H13NO2;10;13;2;1;0;CCOC1=CC=C(C=C1)NC(=O)C;phenacetin ;c;-1283.5;-101.1
-543;C10H9N ;10;9;0;1;0;C1=CC=C(C=C1)N2C=CC=C2;N-phenylpyrrole ;c;-1286;38.1
-544;C10H9N ;10;9;0;1;0;N=1C=2C=CC=CC2C=CC1C;quinaldine (a-methyl  quinoline)  ;c;-1287.2;-39
-545;C10H16O3 ;10;16;3;0;0;CCCCCCC(=O)OC;methyl ethyl heptanone  lactone (racemic)  ;c;-1303.5;-183
+543;C10H9NÂ ;10;9;0;1;0;C1=CC=C(C=C1)N2C=CC=C2;N-phenylpyrrole ;c;-1286;38.1
+544;C10H9NÂ ;10;9;0;1;0;N=1C=2C=CC=CC2C=CC1C;quinaldine (a-methylÂ  quinoline)Â Â ;c;-1287.2;-39
+545;C10H16O3Â ;10;16;3;0;0;CCCCCCC(=O)OC;methyl ethyl heptanoneÂ  lactone (racemic)Â Â ;c;-1303.5;-183
 546;C9H18O2;9;18;2;0;0;CCCCCCCCC(=O)O;pelargonic acid (nonanoic acid);liq;-1303.62;-157
 547;C12H16O8 ;12;16;8;0;0;CC(=O)OC1C2COC(O2)C(C1OC(=O)C)OC(=O)C;levoglucosan triacetate;c;-1303.8;-371.3
 548;C10H22O7 ;10;22;7;0;0;C(C(CO)(CO)COCC(CO)(CO)CO)O;dipentaerythritol;c;-1315.1;-376.9
@@ -556,7 +556,7 @@
 554;C11H13NO3  ;11;13;3;1;0;;o-toluyl alanine;c;-1322.1;-156.5
 555;C10H19N3O4;10;19;4;3;0;CC(C)CC(C(=O)NCC(=O)NCC(=O)O)N;leucylglycylglycine;c;-1329.9;-259.6
 556;C12H18O8;12;18;8;0;0;;1,2-anhydroglucose-3,5,6- triacetate;c;-1331.8;-411.7
-557;C9H15N ;9;15;0;1;0;CCC1=C(NC(=C1C)C)C;phyllopyrrole (2,4,5-tri methyl-3-ethyl pyrrole)  ;c;-1338.4;-20.4
+557;C9H15NÂ ;9;15;0;1;0;CCC1=C(NC(=C1C)C)C;phyllopyrrole (2,4,5-tri methyl-3-ethyl pyrrole)Â Â ;c;-1338.4;-20.4
 558;C12H26O13 ;12;26;13;0;0;C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O.O.O;trehalose dihydrate;c;-1340.6;-676.1
 559;C11H12N2O2;11;12;2;2;0;C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N;L-tryptophane;c;-1344.6;-99.8
 560;C12H24O12 ;12;24;12;0;0;C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O.O;a-lactose monohydrate;c;-1346;-602
@@ -566,20 +566,20 @@
 564;C11H14N2O3;11;14;3;2;0;C1=CC=C(C=C1)CC(C(=O)O)NC(=O)CN;glycylphenylalanine;c;-1348.8;-163.9
 565;C12H22O11;12;22;11;0;0;C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O;maltose;c;-1349.3;-530.8
 566;C12H22O11;12;22;11;0;0;C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O;B-lactose;c;-1350;-530.1
-567;C10H16O2;10;16;2;0;0;;dehydro-B-campholeno lactone (inactive) ;c;-1350;-137
+567;C10H16O2;10;16;2;0;0;;dehydro-B-campholenoÂ lactone (inactive) ;c;-1350;-137
 568;C10H16O2;10;16;2;0;0;;2 dehydro-B-campholeno lactone (dextrorotatory)  ;c;-1357;-130
-569;C11H12N2O2 ;11;12;2;2;0;C1C(=O)NC(C(=O)N1)CC2=CC=CC=C2;glycylphenylalanyl anhydride  ;c;-1361.6;-82.9
-570;C6H12N2S3 ;6;12;0;3;3;CN(C)C(=S)SC(=S)N(C)C;tetramethylthiuram mono sulfide ;c;-1417.43;-11.6
-571;C10H14N2  ;10;14;0;2;0;CN1CCCC1C2=CN=CC=C2;nicotine ;liq;-1428.1;9.4
+569;C11H12N2O2Â ;11;12;2;2;0;C1C(=O)NC(C(=O)N1)CC2=CC=CC=C2;glycylphenylalanyl anhydrideÂ  ;c;-1361.6;-82.9
+570;C6H12N2S3Â ;6;12;0;3;3;CN(C)C(=S)SC(=S)N(C)C;tetramethylthiuram mono sulfide ;c;-1417.43;-11.6
+571;C10H14N2Â Â ;10;14;0;2;0;CN1CCCC1C2=CN=CC=C2;nicotine ;liq;-1428.1;9.4
 572;C10H20O2;10;20;2;0;0;CCCCCCCCCC(=O)O;capric acid (decanoic acid);c;-1453.07;-170.59
-573;C12H15NO4;12;15;4;1;0;COC(=O)C(CC1=CC=CC=C1)NC(=O)OC;DL-phenylalanine-N- carboxylic acid  dimethyl ester ;c;-1456.7;-184.3
+573;C12H15NO4;12;15;4;1;0;COC(=O)C(CC1=CC=CC=C1)NC(=O)OC;DL-phenylalanine-N-Â carboxylic acid  dimethyl ester ;c;-1456.7;-184.3
 574;C12H8N2 ;12;8;0;2;0;C1=CC=C2C(=C1)N=C3C=CC=CC3=N2;phenazine ;c;-1458.3;56.4
 575;C10H20O2;10;20;2;0;0;O=C(O)CCCCCCCCC;capric acid (decanoic acid);liq;-1460.1;-163.6
-576;C12H9N ;12;9;0;1;0;C1=CC=C2C(=C1)C3=CC=CC=C3N2;carbazole ;c;-1466.3;30.3
+576;C12H9NÂ ;12;9;0;1;0;C1=CC=C2C(=C1)C3=CC=CC=C3N2;carbazole ;c;-1466.3;30.3
 577;C10H20O2;10;20;2;0;0;CCCCCCCCC(=O)OC;methyl pelargonate;liq;-1476.37;-147.29
 578;C12H16N2O3;12;16;3;2;0;CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)N;alanylphenylalanine;c;-1505;-170.2
-579; C9H21N ;9;21;0;1;0;CCCN(CCC)CCC;tri-n-propylamine;liq;-1515.26;-49.51
-580;C12H14N2O2 ;12;14;2;2;0;;alanylphenylalanyl anhydride  ;c;-1517.5;-89.3
+579; C9H21NÂ ;9;21;0;1;0;CCCN(CCC)CCC;tri-n-propylamine;liq;-1515.26;-49.51
+580;C12H14N2O2Â ;12;14;2;2;0;;alanylphenylalanyl anhydrideÂ  ;c;-1517.5;-89.3
 581;C10H22O2;10;22;2;0;0;C(CCCCCO)CCCCO;1,10-decanediol;c;-1526.2;-165.78
 582;C10H22O6;10;22;6;0;0;;1,2,5,6-diacetone-mannitol;c;-1530;-350
 583;C12H20O6;12;20;6;0;0;;mannitol triacetal;c;-1537;-275
@@ -587,47 +587,47 @@
 585;C13H10O;13;10;1;0;0;C1=CC=C(C=C1)C(=O)C2=CC=CC=C2;benzophenone;c;-1556.2;-8
 586;C6H12N2S4;6;12;0;4;4;CN(C)C(=S)SSC(=S)N(C)C;tetramethylthiuram disulfide;c;-1559.64;9.94
 587;C11H20ON2O2 ;11;20;2;2;0;;valylleucyl anhydride ;c;-1567.6;-150.1
-588;C14H23N3O10;14;23;10;3;0;O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CCN(CC(=O)O)CC(=O)O;diethylenetriamine pentaacetic acid ;c;-1570.5;-531
-589;C13H9N ;13;9;0;1;0;C1=CC=C2C(=C1)C=C3C=CC=CC3=N2;acridine;c;-1574.9;44.8
-590; C13H11NO ;13;11;1;1;0;C1=CC=C(C=C1)C(=O)NC2=CC=CC=C2;benzanilide;c;-1576.1;-22.3
+588;C14H23N3O10;14;23;10;3;0;O=C(O)CN(CC(=O)O)CCN(CC(=O)O)CCN(CC(=O)O)CC(=O)O;diethylenetriamineÂ pentaacetic acid ;c;-1570.5;-531
+589;C13H9NÂ ;13;9;0;1;0;C1=CC=C2C(=C1)C=C3C=CC=CC3=N2;acridine;c;-1574.9;44.8
+590; C13H11NOÂ ;13;11;1;1;0;C1=CC=C(C=C1)C(=O)NC2=CC=CC=C2;benzanilide;c;-1576.1;-22.3
 591;C11H20O2;11;20;2;0;0;C=CCCCCCCCCC(=O)O;undecyl-10-ene-I-oic acid;c;-1580;-138
-592;C12H18O2 ;12;18;2;0;0;; 3( e )-hydroxy-trans-decalin 2(e) acetic acid lactone;c;-1606.19;-137.26
-593;C12H18O2 ;12;18;2;0;0;;3( a)-hydroxy-trans-decalin 2(a) acetic acid lactone;c;-1610.36;-133.09
+592;C12H18O2Â ;12;18;2;0;0;;Â 3( e )-hydroxy-trans-decalin 2(e) acetic acid lactone;c;-1606.19;-137.26
+593;C12H18O2Â ;12;18;2;0;0;;3( a)-hydroxy-trans-decalin 2(a) acetic acid lactone;c;-1610.36;-133.09
 594;C11H22O2;11;22;2;0;0;CCCCCCCCCC(=O)OC;methyl caprate;liq;-1632.96;-153.07
-595;C12H10S ;12;10;0;0;1;C1=CC=C(C=C1)SC2=CC=CC=C2;diphenyl sulfide ;c;-1653.2;39.1
+595;C12H10SÂ ;12;10;0;0;1;C1=CC=C(C=C1)SC2=CC=CC=C2;diphenyl sulfide ;c;-1653.2;39.1
 596;C14H10;14;10;0;0;0;C1=CC=C2C(=C1)C=CC3=CC=CC=C32;phenanthrene;c;-1685.6;27.3
 597;C14H10;14;10;0;0;0;C1=CC=C2C=C3C=CC=CC3=CC2=C1;anthracene;c;-1687.3;29
 598;C14H10;14;10;0;0;0;C1=CC=C2C(=C1)C=CC3=CC=CC=C32;phenanthrene;g;-1706.7;48.4
 599;C12H26N2O4;12;26;4;2;0;;hexamethylene-l,6-diamine adipic acid adduct ;c;-1711.2;-305.5
 600;C14H10;14;10;0;0;0;C1=CC=C2C=C3C=CC=CC3=CC2=C1;anthracene;g;-1712;53.7
 601;C12H22N2O2 ;12;22;2;2;0;;leucine anhydride;c;-1720.1;-160
-602;C16H22O11 ;16;22;11;0;0;CC(=O)OCC(C(C(C(C=O)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;galactose pentaacetate;c;-1723.5;-532.8
+602;C16H22O11Â ;16;22;11;0;0;CC(=O)OCC(C(C(C(C=O)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;galactose pentaacetate;c;-1723.5;-532.8
 603;C16H22O11 ;16;22;11;0;0;CC(=O)OCC(C(C(C(C=O)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;glucose pentaacetate;c;-1724.2;-532.1
 604;C14H19N3O4;14;19;4;3;0;CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)CN;glycylalanyl'phenylalanine;c;-1743.7;-222
-605;C12H24O2 ;12;24;2;0;0;CCCCCCCCCCCC(=O)O;lauric acid (dodecanQic  acitl)  ;c;-1763.2;-185.14
-606;C12H24O2 ;12;24;2;0;0;CCCCCCCCCCCC(=O)O;lauric acid (dodecanoic acid)  ;liq;-1772;-176.4
+605;C12H24O2Â ;12;24;2;0;0;CCCCCCCCCCCC(=O)O;lauric acid (dodecanQicÂ  acitl)Â Â ;c;-1763.2;-185.14
+606;C12H24O2Â ;12;24;2;0;0;CCCCCCCCCCCC(=O)O;lauric acidÂ (dodecanoic acid)Â Â ;liq;-1772;-176.4
 607;C16H12N2O4 ;16;12;4;2;0;C1=CC=C2C(=C1)C(C(=O)N2)(C3(C4=CC=CC=C4NC3=O)O)O;isatide ;c;-1776;-139
 608;C12H24O2;12;24;2;0;0;CCCCCCCCCCC(=O)OC;methyl undecylate;liq;-1789.42;-158.97
-609;C12H10S2 ;12;10;0;0;2;C1=CC=C(C=C1)SSC2=CC=CC=C2;diphenyl disulfide ;c;-1793.7;35.8
+609;C12H10S2Â ;12;10;0;0;2;C1=CC=C(C=C1)SSC2=CC=CC=C2;diphenyl disulfide ;c;-1793.7;35.8
 610;C16H10N2O2 ;16;10;2;2;0;C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O;indigotin ;c;-1814;-32
 611;C14H20N2O3;14;20;3;2;0;;vylalanine;c;-1816.3;-183.5
-612;C14H18N2O2 ;14;18;2;2;0;;valylphenylalanyl anhydride  ;c;-1837.2;-94.3
-613; C13H26O4 ;13;26;4;0;0;CCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-caprate;c;-1845.71;-265.05
+612;C14H18N2O2Â ;14;18;2;2;0;;valylphenylalanyl anhydrideÂ  ;c;-1837.2;-94.3
+613; C13H26O4Â ;13;26;4;0;0;CCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-caprate;c;-1845.71;-265.05
 614;C16H13NO3;16;13;3;1;0;C1=CC=C(C=C1)C=C(C(=O)O)NC(=O)C2=CC=CC=C2;benzalhippuric acid ;c;-1846.3;-102.6
-615;C15H20O6 ;15;20;6;0;0;;tricyclobutyrin;liq;-1847;-247
-616; C13H26O4 ;13;26;4;0;0;CCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-caprate;c;-1848.87;-261.9
-617;C16H11NO2;16;11;2;1;0;;benzalhippuric acid azlactone ;c;-1850;-30.5
+615;C15H20O6Â ;15;20;6;0;0;;tricyclobutyrin;liq;-1847;-247
+616; C13H26O4Â ;13;26;4;0;0;CCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-caprate;c;-1848.87;-261.9
+617;C16H11NO2;16;11;2;1;0;;benzalhippuric acidÂ azlactone ;c;-1850;-30.5
 618;C16H10;16;10;0;0;0;C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2;pyrene;c;-1873.83;27.44
 619;C16H15NO3;16;15;3;1;0;C1=CC=C(C=C1)CC(C(=O)O)NC(=O)C2=CC=CC=C2;benzoylphenylalanine ;c;-1887.6;-129.6
 620;C16H10;16;10;0;0;0;;Huoranthene;c;-1892.1;45.75
-621;C15H20O6 ;15;20;6;0;0;CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC;glyceryl tributyrate;liq;-1943;-356
+621;C15H20O6Â ;15;20;6;0;0;CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC;glyceryl tributyrate;liq;-1943;-356
 622;C13H26O2;13;26;2;0;0;CCCCCCCCCCCC(=O)OC;methyl laurate;liq;-1945.1;-165.66
 623;C18H32O16 ;18;32;16;0;0;C(C1C(C(C(C(O1)OC2C(C(OC2(CO)OC3C(C(C(C(O3)CO)O)O)O)CO)O)O)O)O)O;melezitose;c;-1971;-815
-624;C14H30N2O4 ;14;30;4;2;0;;tetramethylene-l.4-diamine sebacic acid adduct;c;-2023.5;-317.9
+624;C14H30N2O4Â ;14;30;4;2;0;;tetramethylene-l.4-diamine sebacic acid adduct;c;-2023.5;-317.9
 625;C18H32O16 ;18;32;16;0;0;C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3(C(C(C(O3)CO)O)O)CO)O)O)O)O)O)O)O;raffinose;c;-2025;-761
 626;C18H42O21 ;18;42;21;0;0;C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3(C(C(C(O3)CO)O)O)CO)O)O)O)O)O)O)O.O.O.O.O.O;raffinose pentahydrate;c;-2066;-1122
-627; C14H28O2 ;14;28;2;0;0;CCCCCCCCCCCCCC(=O)O;myristic acid (tetrade canoic acid)  ;c;-2073.91;-199.21
-628;C14H28O2;14;28;2;0;0;CCCCCCCCCCCCCC(=O)O;myristic acid (tetrade canoic acid)  ;liq;-2084.6;-188.5
+627; C14H28O2Â ;14;28;2;0;0;CCCCCCCCCCCCCC(=O)O;myristic acid (tetrade canoic acid)Â Â ;c;-2073.91;-199.21
+628;C14H28O2;14;28;2;0;0;CCCCCCCCCCCCCC(=O)O;myristic acid (tetrade canoic acid)Â Â ;liq;-2084.6;-188.5
 629;C14H28O2;14;28;2;0;0;CCCCCCCCCCCCC(=O)OC;methyl tridecylate;liq;-2101.56;-171.56
 630;C18H12;18;12;0;0;0;C1=CC=C2C(=C1)C3=CC=CC=C3C4=CC=CC=C24;triphenylene;c;-2136.53;33.72
 631;C18H12;18;12;0;0;0;C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43;chrysene;c;-2137.8;35
@@ -635,52 +635,52 @@
 633;C18Hl2;18;12;0;0;0;C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32;1,2-benzanthracene;c;-2144;41.2
 634;C17H21NO4 ;17;21;4;1;0;CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O.O;morphine monohydrate;c;-2146.1;-170.1
 635;C18H12;18;12;0;0;0;C1=CC=C2C(=C1)C=CC3=C2C4=CC=CC=C4C=C3;3,4-benzphenanthrene;c;-2147.3;44.5
-636;C15H30O4 ;15;30;4;0;0;CCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-laurate;c;-2158.03;-277.46
-637;C15H30O4 ;15;30;4;0;0;CCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-laurate;c;-2160.02;-275.48
+636;C15H30O4Â ;15;30;4;0;0;CCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-laurate;c;-2158.03;-277.46
+637;C15H30O4Â ;15;30;4;0;0;CCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-laurate;c;-2160.02;-275.48
 638;C17H19NO2 ;17;19;2;1;0;;ethyl f3-anilino-f3-phenyl propionate ;c;-2165.1;-82.8
-639;C18Hl8N2O2 ;18;18;2;2;0;C1=CC=C(C=C1)CC2C(=O)NC(C(=O)N2)CC3=CC=CC=C3;phenylalanyl anhydride ;c;-2238.8;-69.3
+639;C18Hl8N2O2Â ;18;18;2;2;0;C1=CC=C(C=C1)CC2C(=O)NC(C(=O)N2)CC3=CC=CC=C3;phenylalanyl anhydride ;c;-2238.8;-69.3
 640;C15H30O2;15;30;2;0;0;CCCCCCCCCCCCCC(=O)OC;methyl myristate;liq;-2257.69;-177.8
-641;C18H26O6 ;18;26;6;0;0;;tricyclovalerin;liq;-2311;-270
+641;C18H26O6Â ;18;26;6;0;0;;tricyclovalerin;liq;-2311;-270
 642;C18H23NO4 ;18;23;4;1;0;CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O.O;codeine monohydrate;c;-2327.3;-151.2
 643;C20H12;20;22;0;0;0;C1=CC2=C3C(=C1)C4=CC=CC5=C4C(=CC=C5)C3=CC=C2;perylene;c;-2334.6;43.69
 644;C20H27NO11;20;27;11;1;0;C1=CC=C(C=C1)C(C#N)OC2C(C(C(C(O2)COC3C(C(C(C(O3)CO)O)O)O)O)O)O;amygdalin;c;-2348;-455
-645;C16H32O2 ;16;32;2;0;0;CCCCCCCCCCCCCCCC(=O)O;palmitic acid (hexade canoie acid)  ;c;-2384.76;-213.1
-646;C16H32O2 ;16;32;2;0;0;CCCCCCCCCCCCCCCC(=O)O;palmitic acid (hexade canoie acid)  ;liq;-2397.5;-200.4
+645;C16H32O2Â ;16;32;2;0;0;CCCCCCCCCCCCCCCC(=O)O;palmitic acid (hexade canoie acid)Â Â ;c;-2384.76;-213.1
+646;C16H32O2Â ;16;32;2;0;0;CCCCCCCCCCCCCCCC(=O)O;palmitic acid (hexade canoie acid)Â Â ;liq;-2397.5;-200.4
 647;C16H32O2;16;32;2;0;0;CCCCCCCCCCCCCCC(=O)OC;methyl pentadecylate;liq;-2413.51;-184.35
 648;C19H21NO3;19;21;3;1;0;CN1CCC23C4C(=CC=C2C1CC5=C3C(=C(C=C5)OC)O4)OC;thebaine;c;-2441.3;-63
-649;C17H34O4 ;17;34;4;0;0;CCCCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-myristate;c;-2467.92;-292.31
-650;C17H34O4 ;17;34;4;0;0;CCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-myristate;c;-2470.34;-289.89
+649;C17H34O4Â ;17;34;4;0;0;CCCCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-myristate;c;-2467.92;-292.31
+650;C17H34O4Â ;17;34;4;0;0;CCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-myristate;c;-2470.34;-289.89
 651;C20H21NO4 ;20;21;4;1;0;COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC;papaverine;c;-2478.1;-120.2
-652; C19H22N2O  ;19;22;1;2;0;C=CC1CN2CCC1CC2C(C3=CC=NC4=CC=CC=C34)O;cinchonidine;c;-2545.5;7.1
+652; C19H22N2O Â ;19;22;1;2;0;C=CC1CN2CCC1CC2C(C3=CC=NC4=CC=CC=C34)O;cinchonidine;c;-2545.5;7.1
 653;C19H22N2O ;19;22;1;2;0;C=CC1CN2CCC1CC2C(C3=CC=NC4=CC=CC=C34)O;cinchonine;c;-2545.8;7.4
 654;C19H25N3O4 ;19;25;4;3;0;;cinchonamine nitrate;c;-2561;-79.9
 655;C19H26O2;19;26;2;0;0;CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4=O)C;A4-androstene-3,17-dione;c;-2572;-103
-656;C21H16N2 ;21;16;0;2;0;C1=CC=C(C=C1)C2=C(N=C(N2)C3=CC=CC=C3)C4=CC=CC=C4;lophine ;c;-2587;65
+656;C21H16N2Â ;21;16;0;2;0;C1=CC=C(C=C1)C2=C(N=C(N2)C3=CC=CC=C3)C4=CC=CC=C4;lophine ;c;-2587;65
 657;C19H24N2O ;19;24;1;2;0;C=CC1CN2CCC1CC2C3=C(C4=CC=CC=C4N3)CCO;cinchonamine;c;-2596.3;-10.4
 658;C19H28O2;19;28;2;0;0;CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4=O)C;5a-androstane-3,17-dione;c;-2613;-130
 659;C21H22N2O2 ;21;22;2;2;0;;Mtrychllille;c;-2635.5;-41
-660;C19H28O2;19;28;2;0;0;CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)O)C;A5-androstene-3B-ol-17-one (trans-dehydroandro sterone)  ;c;-2636;-107
+660;C19H28O2;19;28;2;0;0;CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)O)C;A5-androstene-3B-ol-17-one (trans-dehydroandroÂ sterone)Â Â ;c;-2636;-107
 661;C18H34O2;18;34;2;0;0;;elaidic acid;c;-2636.6;-217.7
 662;C22H23NO7 ;22;23;7;1;0;CN1CCC2=CC3=C(C(=C2C1C4C5=C(C(=C(C=C5)OC)OC)C(=O)O4)OC)OCO3;narcotine;c;-2643.8;-210.9
 663;C19H28O2;19;28;2;0;0;O=C1C=C2CCC3C4CCC(=O)C4(C)CCC3C2(C)CC1;A4-androstene-3-one-17B-ol (testosterone) ;c;-2649;-94
-664;C19H30O2;19;30;2;0;0;CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)O;5a-androstane-3a-ol-17-one (androsterone)  ;c;-2650;-162
-665;C21H18N2 ;21;18;0;2;0;;amarine;c;-2653;63
+664;C19H30O2;19;30;2;0;0;CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)O;5a-androstane-3a-ol-17-one (androsterone)Â Â ;c;-2650;-162
+665;C21H18N2Â ;21;18;0;2;0;;amarine;c;-2653;63
 666;C21H19N2O0.5 ;21;19;0.5;2;0;;amarine hemihydrate;c;-2653;29
-667;C19H30O2;19;30;2;0;0;O=C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C;5a-androstane-3B-ol-17-one (epiandrosterone)  ;c;-2660;-152
+667;C19H30O2;19;30;2;0;0;O=C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C;5a-androstane-3B-ol-17-one (epiandrosterone)Â Â ;c;-2660;-152
 668;C20H24N2O2 ;20;24;2;2;0;COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O;quinidine;c;-2662.5;-38.3
 669;C20H24N2O2 ;20;24;2;2;0;COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O;quinine;c;-2663.7;-37.1
 670;C18H34O2;18;34;2;0;0;CCCCCCCCC=CCCCCCCCC(=O)O;oleic acid;c;-2667.1;-187.2
 671;C18H34O2;18;34;2;0;0;CCCCCCCCC=CCCCCCCCC(=O)O;oleic acid;liq;-2675.4;-178.9
-672;C21H28O5;21;28;5;0;0;O=C1C=C2CCC3C(C(=O)CC4(C)C3CCC4(O)C(=O)CO)C2(C)CC1;A4-pregnene-3,11,20-trione-17a, 21-diol (c) (cortisone)  ;c;-2676;-255
-673;C19H30O2;19;30;2;0;0;;5a-androstane-3-one-17B-ol ;c;-2692;-120
-674;C18H36O2;18;36;2;0;0;C(CCCCCCCCCCC)CCCCCC(O)=O;stearic acid (octadecanoic  acid)  ;c;-2696.12;-226.47
+672;C21H28O5;21;28;5;0;0;O=C1C=C2CCC3C(C(=O)CC4(C)C3CCC4(O)C(=O)CO)C2(C)CC1;A4-pregnene-3,11,20-trione-17a, 21-diol (c) (cortisone)Â Â ;c;-2676;-255
+673;C19H30O2;19;30;2;0;0;;5a-androstane-3-one-17B-olÂ ;c;-2692;-120
+674;C18H36O2;18;36;2;0;0;C(CCCCCCCCCCC)CCCCCC(O)=O;stearic acid (octadecanoicÂ  acid)Â Â ;c;-2696.12;-226.47
 675;C24H42O21 ;24;42;21;0;0;C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC3C(C(C(C(O3)OC4(C(C(C(O4)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O;stachyose;c;-2705;-987
-676;C18H36O2;18;36;2;0;0;C(CCCCCCCCCCC)CCCCCC(O)=O;stearic acid (octade canoic acid)  ;liq;-2710.1;-212.5
-677;C24H20O6 ;24;20;6;0;0;C1=CC=C(C=C1)C(=O)OCC(COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3;glyceryl tribenzoate;c;-2726;-214
+676;C18H36O2;18;36;2;0;0;C(CCCCCCCCCCC)CCCCCC(O)=O;stearic acid (octade canoic acid)Â Â ;liq;-2710.1;-212.5
+677;C24H20O6Â ;24;20;6;0;0;C1=CC=C(C=C1)C(=O)OCC(COC(=O)C2=CC=CC=C2)OC(=O)C3=CC=CC=C3;glyceryl tribenzoate;c;-2726;-214
 678;C21H30O5;21;30;5;0;0;CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O;A4-pregnene-3 ,20-dione-11B, 17a,21-triol (cortisol);c;-2744;-256
 679;C24H40O20 ;24;40;20;0;0;;diamylose;c;-2774;-850
-680;C19H38O4 ;19;38;4;0;0;CCCCCCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-palmitate;c;-2778.67;-306.28
-681;C19H38O4 ;19;38;4;0;0;;glyceryl-2-palmitate;c;-2781.72;-303.23
+680;C19H38O4Â ;19;38;4;0;0;CCCCCCCCCCCCCCCC(=O)OCC(CO)O;glyceryl-1-palmitate;c;-2778.67;-306.28
+681;C19H38O4Â ;19;38;4;0;0;;glyceryl-2-palmitate;c;-2781.72;-303.23
 682;C23H31NO10;23;31;10;1;0;CN(C)CCC1=CC2=C(C(=C1CC(=O)C3=C(C(=C(C=C3)OC)OC)C(=O)O)OC)OCO2.O.O;narceine dihydrate;c;-2800.9;-421.2
 683;C19H32;19;32;0;0;0;CC12CCC(CC1CCC3C2CCC4(C3CCC4O)C)O; 5a-androstane;c;-2805;-78
 684;C19H36O2;19;36;2;0;0;CCCCCCCCC=CCCCCCCCC(=O)OC;methyl elaidate;liq;-2840.8;-175.8
@@ -688,19 +688,19 @@
 686;C21H30O2;21;30;2;0;0;CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C;A4-pregnene-3 ,20-dione (progesterone);c;-2868;-132
 687;C21H30O3;21;30;3;0;0;CC12CCC3C(C1CCC2C(=O)CO)CCC4=CC(=O)CCC34C;A4-pregnene-3 ,20-dione-21-ol (desoxycorticosterone or cortexone);c;-2876;-124
 688;C23H26N2O4 ;23;26;4;2;0;COC1=C(C=C2C(=C1)C34CCN5C3CC6C7C4N2C(=O)CC7OCC=C6C5)OC;brucine;c;-2932.7;-118.6
-689;C20H40O2;20;40;2;0;0;O=C(O)CCCCCCCCCCCCCCCCCCC; arachidic acid (eicosanoic  acid)  ;c;-3005.5;-241.82
+689;C20H40O2;20;40;2;0;0;O=C(O)CCCCCCCCCCCCCCCCCCC; arachidic acid (eicosanoicÂ  acid)Â Â ;c;-3005.5;-241.82
 690;C20H40O2;20;40;2;0;0;O=C(O)CCCCCCCCCCCCCCCCCCC;arachidic acid (eico sanoic acid);liq;-3022.7;-224.6
 691;C28H38O19 ;28;38;19;0;0;CC(=O)OCC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC2C(C(C(C(O2)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;lactose octaacetate;c;-3025.4;-906
-692;C24H24N2O3 ;24;24;3;2;0;;anisine;c;-3026;-51
+692;C24H24N2O3Â ;24;24;3;2;0;;anisine;c;-3026;-51
 693;C28H38O19 ;28;38;19;0;0;CC(=O)OCC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC2C(C(C(C(O2)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;maltose octaacetate;c;-3026.9;-904.5
 694;C28H38O19 ;28;38;19;0;0;CC(=O)OCC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC2C(C(C(C(O2)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;cellobiose octaacetate;c;-3028.9;-902.5
 695;C28H38O19 ;28;38;19;0;0;CC(=O)OCC1C(C(C(C(O1)OC2(C(C(C(O2)COC(=O)C)OC(=O)C)OC(=O)C)COC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C;sucrose octaacetate;c;-3029.5;-901.9
-696;C21H42O4 ;21;42;4;0;0;CCCCCCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-1-stearate;c;-3090.05;-319.64
-697;C21H42O4 ;21;42;4;0;0;CCCCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-stearate;c;-3093.89;-315.8
+696;C21H42O4Â ;21;42;4;0;0;CCCCCCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-1-stearate;c;-3090.05;-319.64
+697;C21H42O4Â ;21;42;4;0;0;CCCCCCCCCCCCCCCC(=O)OC(CO)CO;glyceryl-2-stearate;c;-3093.89;-315.8
 698;C22H44O4;22;44;4;0;0;CCCCCCCCC(C(CCCCCCCCCCCC(=O)O)O)O;13 ,14-dihydroxybehenic acid;c;-3235;-337
-699;C22H42O2 ;22;42;2;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)O;brassidic acid;c;-3290;-214
+699;C22H42O2Â ;22;42;2;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)O;brassidic acid;c;-3290;-214
 700;C22H42O2 ;22;42;2;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)O;erucic acid;c;-3297;-207
-701;C22H44O2;22;44;2;0;0;O=C(O)CCCCCCCCCCCCCCCCCCCCC;behenic acid (docosanoic  acid) ;c;-3337;-2351
+701;C22H44O2;22;44;2;0;0;O=C(O)CCCCCCCCCCCCCCCCCCCCC;behenic acid (docosanoicÂ  acid)Â ;c;-3337;-2351
 702;C24H42O6;24;42;6;0;0;;5B-cholan-24-oic acid-3a,7a,12a-triol monohydrate;c;-3404;-288
 703;C27H46O;27;46;1;0;0;OC1CC2=CCC3C(CCC4(C)C(CCC34)C(C)CCCC(C)C)C2(C)CC1;A5-cholestene-B3-ol (cholesterol);c;-3978;-133
 704;C36H60O30 ;36;60;30;0;0;;a-tetramylose;c;-4075;-1360
@@ -717,7 +717,7 @@
 715;C34H36N4O3 ;34;36;3;4;0;;phylloerythrin monomethyl ester  ;c;-4344.2;-83.2
 716;C34H38N4O4;34;38;4;4;0;;rhodoporphyrin (XXI) di- methyl ester ;c;-4371.8;-123.9
 717;C34H38N4O4;34;38;4;4;0;CCC1=C2C=C3C(=C(C(=CC4=NC(=CC5=NC(=CC(=C1C)N2)C(=C5C)CC)C(=C4CCC(=O)OC)C)N3)C(=O)OC)C;rhodoporphyrin (XV) dimethyl ester ;c;-4373.5;-122.2
-718;C36H36N4O6;36;36;6;4;0;;methyl pheophorbide· b ;c;-4414.8;-200.7
+718;C36H36N4O6;36;36;6;4;0;;methyl pheophorbideÂ· b ;c;-4414.8;-200.7
 719;C34H38N4O2;34;38;2;4;0;;desoxyphylloerythrin mono- methyl ester ;c;-4456.8;-38.9
 720;C36H40N4O6;36;40;6;4;0;;chlorin P6 trim ethyl ester ;c;-4460.1;-292
 721;C35H38N4O5;35;38;5;4;0;;chloroporphyrin e5 dimethyl ester ;c;-4486.5;-103.3
@@ -729,272 +729,13 @@
 727;C37H40N4O7;37;40;7;4;0;CCC1=C(C2=CC3=C(C(=C(N3)C=C4C(C(C(=N4)C(=C(C(=O)OC)O)C5=NC(=CC1=N2)C(=C5C(=O)OC)C)CCC(=O)OC)C)C)C=C)C;dimethyl pheopurpurin 7 ;c;-4600.4;-245.8
 728;C36H42N4O4;36;42;4;4;0;CCC1=C(C2=CC3=C(C(=C(N3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)OC)CCC(=O)OC)C)C)CC)C;mesoporphyrin (IX) dimethyl ester ;c;-4624.1;-196.4
 729;C37H42N4O6;37;42;6;4;0;CCC1=C(C2=CC3=C(C(=C(N3)C=C4C(=C(C(=N4)C(=C5C(=C(C(=N5)C=C1N2)C)C(=O)OC)CC(=O)OC)CCC(=O)OC)C)C)CC)C;chloroporphyrin e6 trimethyl ester;c;-4684.2;-230.3
-730;C37H42N4O6;37;42;6;4;0;O=C(OC)C=1C=2NC(=CC3=NC(=CC=4NC(C=C5N=C(C2CC(=O)OC)C(CCC(=O)OC)C5C)=C(C4C=C)C)C(=C3CC)C)C1C;chlorin e6 trimethyl ester ;c;-4693.1;-221.4
+730;C37H42N4O6;37;42;6;4;0;O=C(OC)C=1C=2NC(=CC3=NC(=CC=4NC(C=C5N=C(C2CC(=O)OC)C(CCC(=O)OC)C5C)=C(C4C=C)C)C(=C3CC)C)C1C;chlorin e6 trimethylÂ ester ;c;-4693.1;-221.4
 731;C36H46N4;36;46;0;4;0;CCC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C(=C(C(=N5)C=C1N2)CC)CC)CC)CC)C(=C3CC)CC)CC;octaethyl porphyrin ;c;-4917.2;-39.9
-732;C40H46N4O8;40;46;8;4;0;CC1=C(C2=CC3=C(C(=C(N3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)OC)C)CCC(=O)OC)C)CCC(=O)OC)CCC(=O)OC;coproporphyrin (I) tetra- methyl ester ;c;-4985;-348.3
-733;C39H74O6 ;39;74;6;0;0;CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC;glyceryl trilaurate;c;-5707;-489
-734;C48H54N4O16;48;54;16;4;0;;iso-uroporphyrin (II) oct am ethyl ester (c) ;c;-5738.9;-620.1
+732;C40H46N4O8;40;46;8;4;0;CC1=C(C2=CC3=C(C(=C(N3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)OC)C)CCC(=O)OC)C)CCC(=O)OC)CCC(=O)OC;coproporphyrin (I) tetra-Â methyl ester ;c;-4985;-348.3
+733;C39H74O6Â ;39;74;6;0;0;CCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCC)OC(=O)CCCCCCCCCCC;glyceryl trilaurate;c;-5707;-489
+734;C48H54N4O16;48;54;16;4;0;;iso-uroporphyrin (II)Â oct am ethyl ester (c) ;c;-5738.9;-620.1
 735;C45H86O6;45;86;6;0;0;CCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC;glyceryl trimyristate;c;-6650;-520
-736;C47H88O5 ;47;88;5;0;0;;glyceryl dibrassidate;c;-6954;-472
-737;C47H88O5 ;47;88;5;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCCCCCC=CCCCCCCCC;glyceryl dierucate;c;-6979;-447
+736;C47H88O5Â ;47;88;5;0;0;;glyceryl dibrassidate;c;-6954;-472
+737;C47H88O5Â ;47;88;5;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCCCCCC=CCCCCCCCC;glyceryl dierucate;c;-6979;-447
 738;C69H128O6 ;69;128;6;0;0;;glyceryl tribrassidate;c;-10237;-625
 739;C69H128O6 ;69;128;6;0;0;CCCCCCCCC=CCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCCCCCC=CCCCCCCCC;glyceryl trierucate;c;-10266;-596
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;; ;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
