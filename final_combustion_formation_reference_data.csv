@@ -1,4 +1,4 @@
-Nome,Formula,SMILES,Enthalpy_combustion (kcal/mol),Enthalpy_formation (kcal/mol)
+Name,Formula,SMILES,Enthalpy_combustion (kcal/mol),Enthalpy_formation (kcal/mol)
 abietic acid,C20H30O2,CC(C)C1=CC2=CC[C@@H]3[C@@]([C@H]2CC1)(CCC[C@@]3(C)C(=O)O)C,2619.50576,-128.346222
 acenaphthene,C12H10,C1CC2=CC=CC3=C2C1=CC=C3,1437.286482,37.04593
 acetal,C6H14O2,CCOC(C)OCC,852.05639,-108.389221
